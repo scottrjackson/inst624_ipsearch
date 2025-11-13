@@ -1,0 +1,7237 @@
+
+UK Dedicated Servers Limited
+IP: 77.74.195.174
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Server: Apache
+Content-Type: text/html
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+cf-edge-cache: no-cache
+Transfer-Encoding: chunked
+
+
+
+A100 ROW GmbH
+IP: 18.158.178.88
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:34 GMT
+Server: Apache/2.4.57 (Rocky Linux) OpenSSL/3.0.7
+Location: https://www.fia.com/
+Content-Length: 228
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+ICANN
+IP: 192.0.32.26
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:33 GMT
+Server: Apache
+Location: https://forum.icann.org/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+M247 Europe SRL
+IP: 91.90.121.245
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:32 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=b89b3f089c17ec6e7b93d1dda8e1c3b1; path=/
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
+IP: 5.195.192.108
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:31 GMT
+Server: Apache
+Last-Modified: Tue, 27 Aug 2013 03:46:21 GMT
+ETag: "0-4e4e5b7509d40"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Google LLC
+IP: 35.235.67.78
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:31 GMT
+Server: Apache/2.4.65 (Debian)
+Last-Modified: Tue, 19 Aug 2025 22:54:40 GMT
+ETag: "29cd-63cbfbdbef5d0"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Hetzner Online GmbH
+IP: 116.203.75.170
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:53:32 GMT
+Server: Apache/2.4.54 (Debian)
+Last-Modified: Sat, 02 Feb 2019 17:19:09 GMT
+ETag: "f0-580ec751ff5a1"
+Accept-Ranges: bytes
+Content-Length: 240
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Internet Service Solution Corp.
+IP: 209.8.44.18
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:30 GMT
+Server: Apache/1.3.42 (Unix) PHP/5.2.17
+X-Powered-By: PHP/5.2.17
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Aliyun Computing Co., LTD
+IP: 119.23.189.38
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:29 GMT
+Server: Apache
+Last-Modified: Thu, 21 Jan 2021 11:35:05 GMT
+ETag: "520b34-74-5b9677688cc40"
+Accept-Ranges: bytes
+Content-Length: 116
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+Charter Communications LLC
+IP: 97.82.172.28
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:29 GMT
+Server: Apache
+Location: http://97.82.172.28:8000/
+Vary: Accept-Encoding
+Content-Length: 209
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+DigitalOcean, LLC
+IP: 167.172.147.35
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:29 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Link: <http://coastlinefinancialconsulting.com/index.php?rest_route=/>; rel="https://api.w.org/"
+Link: <http://coastlinefinancialconsulting.com/index.php?rest_route=/wp/v2/pages/5>; rel="alternate"; title="JSON"; type="application/json"
+Link: <http://coastlinefinancialconsulting.com/>; rel=shortlink
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Server Hosting Service(NTTPCCommunications,Inc.)
+IP: 116.80.11.19
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:28 GMT
+Server: Apache
+Last-Modified: Tue, 07 Dec 2021 11:33:00 GMT
+ETag: "e0a170e8-473c-5d28cbc4d7300"
+Accept-Ranges: bytes
+Content-Length: 18236
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.78.78
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:28 GMT
+Server: Apache/2.4.63 (cPanel) OpenSSL/1.1.1w mod_bwlimited/1.4 mod_fcgid/2.3.9
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+NTT COMMUNICATIONS INDIA NETWORK SERVICES PRIVATE LIMITED
+IP: 180.179.103.205
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:27 GMT
+Server: Apache/2.4.62 (CentOS Stream) OpenSSL/3.5.1
+Location: https://gpt.thinkwalnut.com/
+Content-Length: 236
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Canonical Group Limited
+IP: 185.125.188.172
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:04:55 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://api.jujucharms.com/
+Content-Length: 292
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SAKURA Internet Inc.
+IP: 160.16.85.244
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:27 GMT
+Server: Apache/2.4.65 (Debian)
+Last-Modified: Mon, 24 Apr 2017 02:08:51 GMT
+ETag: "29cd-54de016a8edc0"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Fastweb SpA
+IP: 93.42.238.7
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:26 GMT
+Server: Apache/2.2.3 (Red Hat)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: roundcube_sessid=gl2ha0hk8bn9pkf1aninkrmd40; path=/; HttpOnly
+Expires: Thu, 25 Sep 2025 12:11:26 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Thu, 25 Sep 2025 12:11:26 GMT
+X-DNS-Prefetch-Control: off
+X-Frame-Options: sameorigin
+Content-Language: it
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+OVH Hosting, Inc.
+IP: 158.69.7.167
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:11:24 GMT
+Server: Apache
+Content-Length: 315
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.67.133
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:25 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 210.253.127.131
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:11:24 GMT
+Server: Apache
+Last-Modified: Tue, 07 Jan 2025 05:20:32 GMT
+Accept-Ranges: bytes
+Content-Length: 1091
+Content-Type: text/html
+
+
+
+OVH SAS
+IP: 51.255.86.228
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:24 GMT
+Server: Apache
+Location: https://51.255.86.228/
+Content-Length: 293
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 116.202.199.49
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:24 GMT
+Server: Apache/2.4.58 (Unix) OpenSSL/1.1.1k PHP/8.2.8
+Last-Modified: Mon, 11 Jun 2007 18:53:14 GMT
+ETag: "2d-432a5e4a73a80"
+Accept-Ranges: bytes
+Content-Length: 45
+Content-Type: text/html
+
+
+
+Server Hosting Service (NTTPCCommunications,Inc.)
+IP: 119.245.212.187
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:23 GMT
+Server: Apache
+Content-Length: 1806
+Content-Type: text/html; charset=UTF-8
+
+
+
+OVH Hosting, Inc.
+IP: 51.222.249.118
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:23 GMT
+Server: Apache/2.4.57 (Unix) OpenSSL/1.1.1k
+Last-Modified: Fri, 25 Aug 2023 15:19:41 GMT
+ETag: "13b8-603c0dfb151c2"
+Accept-Ranges: bytes
+Content-Length: 5048
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.72.22
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:22 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+DigitalOcean, LLC
+IP: 64.227.173.76
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:21 GMT
+Server: Apache/2.4.62 (Ubuntu)
+Last-Modified: Mon, 18 Mar 2024 13:00:34 GMT
+ETag: "29af-613eef16f2080"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Jordanian mobile phone services Ltd
+IP: 80.90.162.101
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:16:59 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Pustekkom
+IP: 118.98.239.101
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:55:11 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.30
+X-Powered-By: PHP/7.4.30
+Cache-Control: max-age=0, must-revalidate, no-store, nocache, private
+Pragma: no-cache
+Expires: Sun, 02 Jan 1990 00:00:00 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Ik9CMlFVSFhOWDgybStVWDI3WHI0blE9PSIsInZhbHVlIjoiMlJDWG0wWDF3NFJCRUxSa3lreWFLaUhmQ2FvK29jRE9oWHQrT0tWWWZ3TXByd2ZMS3ZUeVAyNG94NnpQTFhMd3paT3hXU2hXT09ac25nMHltUEFudDNUR1h5ZlN4ZSsyU0dXeFRnSTV5SEJENUlpTTYvY2hKQ0ZYZ2U2UnBLSXYiLCJtYWMiOiJhNWJkODMyZjQ3YWQ5Y2RjYjRhMDlmYWJmYWE1ZTFlOWZjNjkzYTUxNDE2MGYyMzczM2FiZjg4Y2VjMzA1MzY4IiwidGFnIjoiIn0%3D; expires=Thu, 25-Sep-2025 13:55:11 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: laravel_session=eyJpdiI6Im16ZDQ3YWhWaTVuc2lUR3hlYzFVVHc9PSIsInZhbHVlIjoicHV5V2JvRHlBOTFzTVpQQnQ1RDlwUWtxVmJnMmRsSWVyOVRUV0ZmZDdxRjJ1cnVZNWUyVGoycXRjN2tZWmdiVmdvNFVaOUFuc3V1S2tTS1FWRWNiNGJDUkVmYnNMdUMwRnNkODEwNVJOeGhEMnRSRTJ3RGFHbmIzK3Z6UTdnNzUiLCJtYWMiOiI5OGIyZjY3NDZhMTJiN2Y1YjkxYjA5MzQ4YmQ1NGY5NGVmMmQ5ZjQ3NzAxZjBiM2FhMzI5MTE0ZDhjZGUwMGI4IiwidGFnIjoiIn0%3D; expires=Thu, 25-Sep-2025 13:55:11 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Sony Network Communications Inc.
+IP: 150.249.193.136
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 11:10:30 GMT
+Server: Apache
+Content-Length: 14
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GENERAL LAB - LABCO
+IP: 217.15.39.154
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:12:36 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Wed, 22 Apr 2015 08:10:04 GMT
+ETag: "4d1-5144bb0bf8f00"
+Accept-Ranges: bytes
+Content-Length: 1233
+Content-Type: text/html
+
+
+
+Chunghwa Telecom Co.,Ltd.
+IP: 60.250.51.129
+HTTP/1.1 400 Bad Request
+Date: Thu, 25 Sep 2025 12:11:20 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552000
+Content-Length: 362
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Unified Layer
+IP: 162.240.100.33
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+G-Core Labs Customer assignment
+IP: 45.92.70.245
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 554
+Content-Type: text/html;charset=UTF-8
+
+
+
+Secondary Vocational School
+IP: 193.87.11.21
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache/2.4.25
+Last-Modified: Fri, 22 Sep 2017 21:54:05 GMT
+ETag: "2-559ce3f65743f"
+Accept-Ranges: bytes
+Content-Length: 2
+Content-Type: text/html
+
+
+
+SH.cz s.r.o.
+IP: 46.234.123.244
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache
+Location: https://123.244/
+Content-Length: 224
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+XSERVER Inc.
+IP: 162.43.21.50
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+UBX Cloud
+IP: 192.83.112.131
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:16 GMT
+Server: Apache/2.4.37 (Rocky Linux) OpenSSL/1.1.1k PHP/8.4.12
+Location: https://www.ospdocs.com/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GoDaddy.com, LLC
+IP: 208.109.64.190
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:55 GMT
+Server: Apache
+Location: https://208.109.64.190/
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+INFORMATION SOCIETY S.A.
+IP: 84.205.192.155
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:18 GMT
+Server: Apache
+Location: https://www.eoppep.gr/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+DIGITAL HOST GROUP PTY LTD
+IP: 103.127.42.117
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:16 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Interserver, Inc
+IP: 209.159.152.6
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:18 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.64.225
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:11:18 GMT
+Server: Apache
+Last-Modified: Fri, 04 Aug 2017 07:18:20 GMT
+ETag: "71c2e-4da-555e84d3a6700"
+Accept-Ranges: bytes
+Content-Length: 1242
+Content-Type: text/html
+
+
+
+GlobiCom Broadband NZ
+IP: 103.18.59.90
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:18 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Hetzner Online GmbH
+IP: 5.161.118.102
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:17 GMT
+Server: Apache
+Link: <https://michamochamag.com/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: DENY, SAMEORIGIN, SAMEORIGIN
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+Content-Length: 90709
+Content-Type: text/html; charset=UTF-8
+
+
+
+BMW AG
+IP: 160.48.165.199
+HTTP/1.1 400 Bad Request
+Date: Thu, 25 Sep 2025 12:11:18 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Length: 362
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Exabytes Ecommerce Sdn.Bhd.
+IP: 137.59.109.172
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:16 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 25 Oct 2016 09:35:00 GMT
+Accept-Ranges: bytes
+Content-Length: 10170
+Content-Type: text/html
+
+
+
+Schweizerische Bundesbahnen SBB
+IP: 193.203.121.90
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:17 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Strasmore, Inc.
+IP: 172.93.51.251
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:17 GMT
+Server: Apache/2.4.62 (Unix) OpenSSL/1.0.2k-fips
+Last-Modified: Wed, 07 Aug 2024 09:37:39 GMT
+ETag: "13cd-61f14a9369ec0"
+Accept-Ranges: bytes
+Content-Length: 5069
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+The Constant Company, LLC
+IP: 207.148.89.133
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Server: Apache/2.4.52 (Unix) OpenSSL/1.1.0l PHP/5.6.30
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Sidus Group
+IP: 199.58.212.48
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:15 GMT
+Server: Apache
+Last-Modified: Wed, 05 Oct 2022 04:26:34 GMT
+ETag: "1b0-5ea41fb555280"
+Accept-Ranges: bytes
+Content-Length: 432
+X-Powered-By: PleskLin
+Content-Type: text/html
+
+
+
+Hi3G Access AB
+IP: 109.57.6.43
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:16 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: PHP/5.5.9-1ubuntu4.14
+Content-Length: 48
+Content-Type: text/html
+
+
+
+Google LLC
+IP: 35.227.191.52
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Server: Apache/2.4.25 (Debian)
+X-Powered-By: PHP/7.3.2
+Link: <https://utaile.com/column/wp-json/>; rel="https://api.w.org/"
+Link: <https://wp.me/aK4EI>; rel=shortlink
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: https://utaile-kawa1234.c9users.io
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+FEDERAL ONLINE GROUP LLC
+IP: 107.163.250.129
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Thu, 20 Feb 2025 19:51:57 GMT
+ETag: "29af-62e9834e7a697"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Microsoft Corporation
+IP: 52.233.133.102
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Mon, 24 Oct 2022 09:33:50 GMT
+ETag: "2aa6-5ebc47d36e013"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+webhosting servers
+IP: 85.128.174.237
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:14 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-CDN-nazwa.pl-location: AMS
+X-CDN-nazwa.pl-policyused: cdn=1209600
+X-CDN-nazwa.pl-cache: MISS
+Server: Apache/2
+
+
+
+T-Systems International GmbH
+IP: 217.150.144.185
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'self'; connect-src 'self'; img-src 'self'; style-src 'unsafe-inline' 'self'; font-src 'self';
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Last-Modified: Fri, 05 Feb 2016 09:16:09 GMT
+ETag: "86-52b024d380840"
+Accept-Ranges: bytes
+Content-Length: 134
+Content-Type: text/html
+
+
+
+XSERVER Inc.
+IP: 85.131.245.122
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Royal Green Limited
+IP: 103.123.8.179
+HTTP/1.1 503 Service Unavailable
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: no-cache, private
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Liquid Web, L.L.C
+IP: 159.135.28.25
+HTTP/1.1 200 OK
+Server: Apache/2.4
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=15552000
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Set-Cookie: X-Mapping-fmfijfol=AA4E608DEDBEA432C4B4C42738BEDB06; path=/
+Last-Modified: Fri, 17 Mar 2023 06:11:27 GMT
+Content-Length: 201
+
+
+
+DigitalOcean, LLC
+IP: 188.166.237.237
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 10:13:26 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Location: http://www.188.166.237.237/
+Cache-Control: max-age=3600
+Expires: Thu, 25 Sep 2025 11:13:26 GMT
+Content-Length: 315
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Pitajanmaki hosted firewalls
+IP: 217.149.56.94
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+Server: Apache/2.4.65 (Unix) OpenSSL/3.5.1
+Location: https://217.149.56.94/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Imperial College of Science, Technology and Medicine
+IP: 146.179.44.127
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:09:52 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=q5pp42ld3ljv0g3c4uu1g5c6s5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 1130
+Content-Type: text/html; charset=UTF-8
+
+
+
+Sveriges Meteorologiska och Hydrologiska Institut
+IP: 91.192.30.140
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:12 GMT
+Server: Apache
+Location: https://aerocam.smhi.se/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.70.204
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:12 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+SUPERLOOP (AUSTRALIA) PTY LTD
+IP: 115.70.233.178
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:12 GMT
+Server: Apache/2.4.52 (Unix) OpenSSL/1.1.1k
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 25 Jun 2019 15:53:50 GMT
+ETag: "409-58c27ef4d7f80"
+Accept-Ranges: bytes
+Content-Length: 1033
+Content-Type: text/html
+
+
+
+Claro NXT Telecomunicacoes Ltda
+IP: 181.222.138.223
+HTTP/1.1 200 
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 25 Sep 2025 12:11:13 GMT
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.68.94
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:11 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+WholeSale Internet, Inc.
+IP: 173.208.209.188
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:11 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 16 Oct 2022 06:06:34 GMT
+ETag: "2aa6-5eb20a93744cb"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2016-11-16
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 99px;
+    width: 100%;
+
+    background-color: #F5F6F7;
+  }
+
+  div.page_header span {
+    margin: 15px 0px 0px 50px;
+
+    font-size: 180%;
+    font-weight: bold;
+  }
+
+  div.page_header img {
+    margin: 3px 0px 0px 40px;
+
+    border: 0px 0px 0px;
+  }
+
+  div.table_of_contents {
+    clear: left;
+
+    min-width: 200px;
+
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.table_of_contents_item {
+    clear: left;
+
+    width: 100%;
+
+    margin: 4px 0px 0px 0px;
+
+    background-color: #FFFFFF;
+
+    color: #000000;
+    text-align: left;
+  }
+
+  div.table_of_contents_item a {
+    margin: 6px 0px 0px 6px;
+  }
+
+  div.content_section {
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.content_section_text {
+    padding: 4px 8px 4px 8px;
+
+    color: #000000;
+    font-size: 100%;
+  }
+
+  div.content_section_text pre {
+    margin: 8px 0px 8px 0px;
+    padding: 8px 8px 8px 8px;
+
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #000000;
+
+    background-color: #F5F6F7;
+
+    font-style: italic;
+  }
+
+  div.content_section_text p {
+    margin-bottom: 6px;
+  }
+
+  div.content_section_text ul, div.content_section_text li {
+    padding: 4px 8px 4px 16px;
+  }
+
+  div.section_header {
+    padding: 3px 6px 3px 6px;
+
+    background-color: #8E9CB2;
+
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 112%;
+    text-align: center;
+  }
+
+  div.section_header_red {
+    background-color: #CD214F;
+  }
+
+  div.section_header_grey {
+    background-color: #9F9386;
+  }
+
+  .floating_element {
+    position: relative;
+    float: left;
+  }
+
+  div.table_of_contents_item a,
+  div.content_section_text a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  div.table_of_contents_item a:link,
+  div.table_of_contents_item a:visited,
+  div.table_of_contents_item a:active {
+    color: #000000;
+  }
+
+  div.table_of_contents_item a:hover {
+    background-color: #000000;
+
+    color: #FFFFFF;
+  }
+
+  div.content_section_text a:link,
+  div.content_section_text a:visited,
+   div.content_section_text a:active {
+    background-color: #DCDFE6;
+
+    color: #000000;
+  }
+
+  div.content_section_text a:hover {
+    background-color: #000000;
+
+    color: #DCDFE6;
+  }
+
+  div.validator {
+  }
+    </style>
+  </head>
+  <body>
+    <div class="main_page">
+      <div class="page_header floating_element">
+        <img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/>
+        <span class="floating_element">
+          Apache2 Ubuntu Default Page
+        </span>
+      </div>
+<!--      <div class="table_of_contents floating_element">
+        <div class="section_header section_header_grey">
+          TABLE OF CONTENTS
+        </div>
+        <div class="table_of_contents_item floating_element">
+          <a href="#about">About</a>
+        </div>
+        <div class="table_of_contents_item floating_element">
+          <a href="#changes">Changes</a>
+        </div>
+        <div class="table_of_contents_item floating_element">
+          <a href="#scope">Scope</a>
+        </div>
+        <div class="table_of_contents_item floating_element">
+          <a href="#files">Config files</a>
+        </div>
+      </div>
+-->
+      <div class="content_section floating_element">
+
+
+        <div class="section_header section_header_red">
+          <div id="about"></div>
+          It works!
+        </div>
+        <div class="content_section_text">
+          <p>
+                This is the default welcome page used to test the correct 
+                operation of the Apache2 server after installation on Ubuntu systems.
+                It is based on the equivalent page on Debian, from which the Ubuntu Apache
+                packaging is derived.
+                If you ca
+
+Rackspace Hosting
+IP: 166.78.87.36
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:11 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Last-Modified: Mon, 11 Jun 2007 18:53:14 GMT
+ETag: "2e-432a5e4a73a80"
+Accept-Ranges: bytes
+Content-Length: 46
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+
+
+
+Vultr Holdings, LLC
+IP: 64.176.49.15
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:11 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.100.33
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:11 GMT
+Server: Apache
+Last-Modified: Mon, 11 Jun 2007 18:53:14 GMT
+ETag: "2d-432a5e4a73a80"
+Accept-Ranges: bytes
+Content-Length: 45
+X-Signature: KUSANAGI
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+
+
+
+Aliyun Computing Co., LTD
+IP: 47.122.122.85
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:10 GMT
+Server: Apache/2.4.46 (Win32) OpenSSL/1.1.1g mod_fcgid/2.3.9 mod_jk/1.2.40
+X-Powered-By: PHP/5.6.40
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cache-control: private
+Set-Cookie: home_lang=cn; path=/
+Set-Cookie: admin_lang=cn; path=/
+Set-Cookie: PHPSESSID=l0r84mhnknuqtavso7d9r0sl94; path=/
+Set-Cookie: site_info=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Upgrade: h2,h2c
+Connection: Upgrade
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+Aliyun Computing Co., LTD
+IP: 39.99.132.62
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:10 GMT
+Server: Apache/2.4.54 (Debian)
+X-Powered-By: PHP/7.4.33
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+BMW Manufacturing Co., LLC
+IP: 170.34.59.99
+HTTP/1.1 400 Bad Request
+Date: Thu, 25 Sep 2025 12:04:40 GMT
+Server: Apache
+Content-Length: 362
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon.com, Inc.
+IP: 54.88.28.196
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:09 GMT
+Server: Apache
+Location: https://www5.septa.org/
+Content-Length: 207
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+None
+IP: 136.243.238.106
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:09 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Hitachi Systems, Ltd.
+IP: 202.222.240.99
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:09 GMT
+Server: Apache
+X-Content-Type-Options: nosnif
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Sat, 24 Aug 2024 06:59:48 GMT
+ETag: "7-62068700a2675"
+Accept-Ranges: bytes
+Content-Length: 7
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline';
+Content-Type: text/html; charset=shift_jis
+
+
+
+DigitalOcean, LLC
+IP: 146.190.224.213
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache
+Link: <https://arthousepr.com>; rel=shortlink
+X-Powered-By: -
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=63072000
+Content-Security-Policy: object-src 'none'
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Landesbetrieb Daten und Information
+IP: 83.243.48.169
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 23.88.111.16
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:09 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.29.146.67
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://newresources.oas.psu.ac.th https://www.oas.psu.ac.th https://www.google.com https://alumni.psu.ac.th https://vr.oas.psu.ac.th
+Referrer-Policy: same-origin
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Headers: *
+Last-Modified: Fri, 07 Mar 2025 03:02:21 GMT
+ETag: "21f6-62fb7d9eb11e1"
+Accept-Ranges: bytes
+Content-Length: 8694
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+
+
+
+Amito Ltd
+IP: 185.38.36.177
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache/2.4.38 (Debian)
+Last-Modified: Fri, 10 Jul 2020 13:24:41 GMT
+ETag: "29cd-5aa16437444dd"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Amazon Technologies Inc.
+IP: 52.38.117.168
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Mod-Pagespeed: 1.7.30.4-
+Cache-Control: max-age=0, no-cache
+Content-Length: 4636
+Content-Type: text/html; charset=utf-8
+
+
+
+Hetzner Online GmbH
+IP: 116.203.4.207
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Wed, 03 Apr 2024 19:35:28 GMT
+ETag: "29af-615365335cdcf"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Odnoklassniki Services
+IP: 185.100.105.84
+HTTP/1.1 200 
+Server: Apache
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 19
+Connection: keep-alive
+Set-Cookie: API_SESSION_ID=10984EE18C397445B7BD0F9BC02D33EF; Path=/; Secure; HttpOnly
+
+
+
+Hosting servers and supporting infra
+IP: 185.7.252.159
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:08 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 06 Nov 2011 11:22:37 GMT
+ETag: "0-4b10f27c9b940"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+University Health Network
+IP: 192.75.165.87
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:07 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://192.75.165.87/
+Content-Length: 230
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Epicor Software Corporation
+IP: 159.66.244.11
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:07 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000;
+Referrer-Policy: strict-origin-when-cross-origin
+Last-Modified: Fri, 02 Feb 2024 22:04:05 GMT
+ETag: "2dc-6106d4a58402a"
+Accept-Ranges: bytes
+Content-Length: 732
+Content-Type: text/html; charset=UTF-8
+
+
+
+Alibaba Cloud (Singapore) Private Limited
+IP: 8.222.251.88
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:07 GMT
+Server: Apache/2
+X-Powered-By: PHP/8.2.18
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IlBCTE8wSEM4ekM4UW9KbVhxaUhjdnc9PSIsInZhbHVlIjoibzZPdE5aZUxJait0S3dBTndGV0djTmRNNkJCbG5xdWNrY0tCVzVkVlhDbzZSRWQ0OFRSVDI1Y004aGRra3FVQVRRa01tRGhZbUJzMHBkWkYyamNuUzFHY3RqQnZIQ0RrWHpjR3IvZ0FpT3JjNkJNcFMrU3hUNDdEdVVBY0pmRTUiLCJtYWMiOiJiMmYyYjA4NjRkOGRhNmI2YjAwNDRjYmVmMDYzNDY1NTczZTU0ZDZjOTJjOGVmOTc5ZmU3NmZmZDQzNmU4YzVlIiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 14:11:07 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: laravel_session=eyJpdiI6Ik8yd0dPNWNieFdleGtTTkRWNGtGMFE9PSIsInZhbHVlIjoiTFBVRExJRGVYaTFkYnhUTXc3K0xKV2xLbHpZSTVLakczOGZpYWY3TEZxTTJQcDlTcHNBQ0t6bVpOMGpSaDRQYkxSSlNKWUZ6K2lPTTdmQi9FRzRFUFFpWWNNRzhSVUtwZGFTNko1emdyc0JQWVVvb1VQcElDdnVKU2crTEYvUDYiLCJtYWMiOiI2YjdmMWI0ZjVhYjBkN2I5MzBhMjUzZjFiM2NmZTA0ZWUyNzMyNmMyZjdhODhlZjcyNGFlNzhiNjFiNzI3NTcwIiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 14:11:07 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: User-Agent
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+SiteSell Inc.
+IP: 66.43.52.9
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:07 GMT
+Server: Apache
+Accept-Ranges: bytes
+X-Mod-Pagespeed: 1.11.33.4-0
+Vary: Accept-Encoding
+X-Request-Country: US, United States
+Cache-Control: max-age=0, no-cache
+Content-Length: 229
+Content-Type: text/html; charset=UTF-8
+
+
+
+netcup GmbH
+IP: 46.38.231.156
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:07 GMT
+Server: Apache
+Location: https://46.38.231.156/avoxa-xaveropp/dac-nrf/start.xav
+Content-Length: 238
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Namecheap, Inc.
+IP: 184.94.215.18
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:06 GMT
+Server: Apache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+X-XSS-Protection: 0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: affiliatepro=bf360a78395772efb70497aab83f4a24cda15c52; expires=Thu, 25 Sep 2025 14:11:06 GMT; Max-Age=7200; path=/; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+TELEFÔNICA BRASIL S.A
+IP: 189.26.12.165
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:06 GMT
+Server: Apache
+Location: https://189.26.12.165/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+IBM Cloud
+IP: 50.22.151.126
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:05 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+
+
+CDMA Project, BSNL New Delhi
+IP: 117.254.105.36
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Content-Length: 742
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Mammoth Media Pty Ltd
+IP: 103.1.186.230
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Location: https://companionsystems.com.au/
+Content-Length: 319
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+UNE EPM TELECOMUNICACIONES S.A.
+IP: 190.28.97.108
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+
+
+
+RACK400.com - Netherlands Infrastructure
+IP: 154.16.116.4
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:11:05 GMT
+Server: Apache
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+Amazon Data Services Ireland Limited
+IP: 34.245.55.50
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.4.65 (Debian)
+Set-Cookie: MoodleSession=m66g14j1gq6d8lghkepvv6rmgu; path=/; secure; SameSite=None
+Expires: Mon, 20 Aug 1969 09:23:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Language: fr
+Content-Script-Type: text/javascript
+Content-Style-Type: text/css
+X-UA-Compatible: IE=edge
+Cache-Control: post-check=0, pre-check=0, no-transform
+Last-Modified: Thu, 25 Sep 2025 12:11:04 GMT
+Accept-Ranges: none
+X-Frame-Options: sameorigin
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+Cornell University
+IP: 132.236.81.108
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.4.53 (Debian)
+Last-Modified: Tue, 22 Aug 2017 19:55:06 GMT
+ETag: "29cd-5575cf8c913f8"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+SECURED SERVERS LLC
+IP: 23.235.229.99
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=0cjk6qleqkcbls0rm5a4h6c8d1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 3323
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+eSecureData
+IP: 74.3.166.243
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.4.34 (Unix) OpenSSL/1.0.2p PHP/5.6.36 Phusion_Passenger/5.3.2
+Last-Modified: Fri, 17 Aug 2018 04:12:05 GMT
+ETag: "2d-57399c3292f40"
+Accept-Ranges: bytes
+Content-Length: 45
+Content-Type: text/html
+
+
+
+KDDI CORPORATION
+IP: 111.111.122.103
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:03 GMT
+Server: Apache
+Accept-Ranges: bytes
+Content-Length: 4961
+Connection: close
+Content-Type: text/html
+
+
+
+Verizon Business
+IP: 72.89.216.8
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:03 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Mon, 26 Aug 2024 03:25:36 GMT
+ETag: "29af-6208dada98846"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Serverius Holding B.V.
+IP: 5.255.81.100
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:03 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Academie de Bordeaux
+IP: 194.199.36.9
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:03 GMT
+Server: Apache
+Last-Modified: Tue, 30 Apr 2013 08:37:19 GMT
+ETag: "804b-2c-4db8fe8c6edc0"
+Accept-Ranges: bytes
+Content-Length: 44
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: BIGipServer~DMZ~idp-fim-aaa.ac-bordeaux.fr_default=rd3o00000000000000000000ffff0aeaf323o80; path=/; Httponly; Secure
+
+
+
+Gameforge 4D GmbH
+IP: 79.110.95.10
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache
+Location: https://gf.mx.gfsrv.net/
+Content-Length: 208
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+KDDI Web Communications Inc.
+IP: 150.60.79.186
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache
+X-Powered-By: PHP/5.5.9
+X-Pingback: http://www.ukpotsies.org/xmlrpc.php
+Link: <http://www.ukpotsies.org/wp-json/>; rel="https://api.w.org/", <http://www.ukpotsies.org/>; rel=shortlink
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Greek Research and Technology Network S.A
+IP: 83.212.2.84
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache/2.4.10 (Debian)
+Last-Modified: Mon, 12 Sep 2022 13:50:18 GMT
+ETag: "7eb-5e87b2d125e4c"
+Accept-Ranges: bytes
+Content-Length: 2027
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html
+
+
+
+Defferrari Informatica Ltda.
+IP: 201.20.146.115
+HTTP/1.1 302 Moved
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache
+Location: https://201.20.146.115:10443/
+Content-Length: 0
+
+
+
+BMW Manufacturing Co., LLC
+IP: 170.34.127.55
+HTTP/1.1 400 Bad Request
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Length: 362
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.66.48
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache/2.4.46
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+University of Sheffield
+IP: 143.167.249.80
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache
+Location: http://www.epigenesys.org.uk/
+Content-Length: 213
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Microsoft Corporation
+IP: 40.67.201.203
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:02 GMT
+Server: Apache
+Last-Modified: Tue, 09 Jul 2024 13:29:30 GMT
+ETag: "2f4-61cd085018f7a"
+Accept-Ranges: bytes
+Content-Length: 756
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+GoDaddy.com, LLC
+IP: 208.109.71.88
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 23 Jan 2024 09:34:12 GMT
+ETag: "3320c90-7ab-60f99a6232d00"
+Accept-Ranges: bytes
+Content-Length: 1963
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+Amito Ltd
+IP: 185.38.36.184
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+B. Braun Melsungen AG
+IP: 193.254.108.175
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache/2.4.62 (Win64) OpenSSL/3.1.7 mod_jk/1.2.50
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Mon, 11 Jun 2007 19:53:14 GMT
+ETag: "2e-432a6bb3ade80"
+Accept-Ranges: bytes
+Content-Length: 46
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 157.7.245.84
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache/2.2.29
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.72.149
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Virginia Polytechnic Institute and State Univ.
+IP: 128.173.88.44
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:00 GMT
+Server: Apache/2.4.6
+Location: https://helpdesk.ece.vt.edu/
+Content-Length: 212
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SAKURA Internet Inc.
+IP: 49.212.155.120
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:59 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.25
+Link: <http://pep-rg.jp/wp-json/>; rel="https://api.w.org/"
+Link: <http://pep-rg.jp/wp-json/wp/v2/pages/41>; rel="alternate"; type="application/json"
+Link: <http://pep-rg.jp/>; rel=shortlink
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+dogado GmbH
+IP: 81.88.22.145
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:11:00 GMT
+Server: Apache
+Location: https://81.88.22.145/
+Content-Length: 205
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+DigitalOcean, LLC
+IP: 174.138.39.120
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:59 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Location: http://jico.jo/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+SAREnet, S.A.
+IP: 212.81.175.31
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:58 GMT
+Server: Apache
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Academie de Poitiers
+IP: 194.254.62.11
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:57 GMT
+Server: Apache
+X-Pingback: http://www.lyc-jeanmonnet.ac-poitiers.fr/blog/xmlrpc.php
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Microsoft Corporation
+IP: 52.231.157.106
+HTTP/1.1 404 Not Found
+Server: Apache-Coyote/1.1
+Content-Length: 0
+Date: Thu, 25 Sep 2025 12:10:58 GMT
+
+
+
+INFRAX cvba
+IP: 78.24.174.36
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:58 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+DigitalOcean, LLC
+IP: 159.65.103.175
+HTTP/1.1 401 Unauthorized
+Date: Thu, 25 Sep 2025 12:10:58 GMT
+Server: Apache/2.4.38 (Debian)
+WWW-Authenticate: Basic realm="Restricted Area"
+Content-Length: 461
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Index Exchange Inc.
+IP: 192.40.36.190
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache
+Last-Modified: Thu, 29 Jul 2021 06:11:20 GMT
+ETag: "0"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Mittuniversitet
+IP: 193.10.250.144
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://193.10.250.144/
+Content-Length: 311
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Brandeis University
+IP: 129.64.252.66
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:57 GMT
+Server: Apache
+X-Frame-Options: DENY
+Location: https://129.64.252.66/
+Content-Length: 307
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Critical Web Solutions LLC
+IP: 208.88.151.112
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache/2.4.37 (AlmaLinux)
+Last-Modified: Sat, 09 Oct 2021 17:49:21 GMT
+ETag: "1249-5cdef1d990a40"
+Accept-Ranges: bytes
+Content-Length: 4681
+Content-Type: text/html; charset=UTF-8
+
+
+
+Fundacion ikerbasque
+IP: 150.241.40.131
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache
+Vary: accept-language,accept-charset
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+
+
+
+OVH Singapore PTE. LTD
+IP: 15.235.229.113
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Location: https://xn--18-7ridt1ipa4nlc.com/
+Content-Length: 321
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Unified Layer
+IP: 162.241.252.184
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache
+X-Robots-Tag: noindex, nofollow
+Content-Length: 315
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+IDC Frontier Inc.
+IP: 164.46.77.185
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:56 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Mon, 23 Mar 2020 06:02:46 GMT
+ETag: "434-5a17f6251cd80"
+Accept-Ranges: bytes
+Content-Length: 1076
+Connection: close
+Content-Type: text/html
+
+
+
+ONITELECOM - INFOCOMUNICACOES, S.A.
+IP: 213.58.140.206
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:54 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+magwien - Internet Services
+IP: 217.149.229.67
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:55 GMT
+Server: Apache
+Location: https://217.149.229.67/
+Content-Length: 347
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+LONGTEL NETWORKS & TECHNOLOGIES LTD.
+IP: 122.200.106.153
+HTTP/1.1 400 Bad Request
+Date: Thu, 25 Sep 2025 12:10:54 GMT
+Server: Apache
+X-Frame-Options: allow-from https://campaign-int.bmw-afc.com.cn, https://sfchina-digital-int.bmw-afc.com.cn
+Content-Length: 362
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+INFORMATION SOCIETY S.A.
+IP: 84.205.193.36
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:05:09 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Fri, 12 Jun 2020 09:54:19 GMT
+ETag: "4-5a7e00f8f071f"
+Accept-Ranges: bytes
+Content-Length: 4
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.73.85
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:53 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.29.18.38
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:55 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Mon, 02 Mar 2015 07:45:08 GMT
+ETag: "2cf6-5104965ae6695"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+EXCMO. AYUNTAMIENTO DE VITORIA
+IP: 46.25.57.201
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:52 GMT
+Server: Apache
+Location: https://www.vitoria-gasteiz.org/
+Content-Length: 216
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Server Hosting Service(NTTPCCommunications,Inc.)
+IP: 116.80.4.82
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:53 GMT
+Server: Apache
+Last-Modified: Sun, 08 Dec 2019 11:01:04 GMT
+ETag: "d08ca419-b81-5992f31f6d514"
+Accept-Ranges: bytes
+Content-Length: 2945
+Content-Type: text/html
+
+
+
+OVH SAS
+IP: 54.38.46.82
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:53 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Open Computer Network
+IP: 60.43.148.56
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:53 GMT
+Server: Apache
+Last-Modified: Thu, 25 Sep 2025 06:09:10 GMT
+ETag: "206d95c8-7d64-63f9a01f4ee81"
+Accept-Ranges: bytes
+Content-Length: 32100
+Content-Type: text/html
+
+
+
+Liquid Web, L.L.C
+IP: 96.30.57.23
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:51 GMT
+Server: Apache
+Location: https://96.30.57.23/
+Content-Length: 228
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.75.216
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:51 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center
+IP: 150.254.179.79
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:50 GMT
+Server: Apache/2.4.10 (Debian)
+Set-Cookie: PHPSESSID=m7kopipvu8e7qosg7ogo5rbco1; path=/; HttpOnly
+Cache-Control: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Karlsruhe Institute of Technology (KIT)
+IP: 141.3.129.29
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:51 GMT
+Server: Apache
+Location: https://141.3.129.29/
+Content-Length: 344
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GoDaddy.com, LLC
+IP: 97.74.210.55
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:50 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sat, 11 Jan 2020 13:17:05 GMT
+ETag: "7c1053-2530-59bdd0efb9640"
+Accept-Ranges: bytes
+Content-Length: 9520
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Unified Layer
+IP: 69.195.70.71
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Link: <https://theredhotband.com/wp-json/>; rel="https://api.w.org/", <https://theredhotband.com/wp-json/wp/v2/pages/4188>; rel="alternate"; title="JSON"; type="application/json", <https://theredhotband.com/>; rel=shortlink
+Set-Cookie: PHPSESSID=7fd0bd95b6f191f509cb5a8034e61d92; path=/
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+host-header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Set-Cookie: nfd-enable-cf-opt=63a6825d27cab0f204d3b602; path=/; Max-Age=86400; HttpOnly
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Centrum Technologii Informatycznych Sp. z o.o. Piotr
+IP: 146.59.50.47
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:50 GMT
+Server: Apache/2
+Upgrade: h2,h2c
+Connection: Upgrade
+Accept-Ranges: bytes
+X-Mod-Pagespeed: 1.13.35.2-0
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 28316
+Content-Type: text/html
+
+
+
+Amazon Technologies Inc.
+IP: 54.153.175.10
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: no-cache, private
+Link: <http://54.153.175.10/build/assets/app-10c73db0.css>; rel="preload"; as="style", <http://54.153.175.10/build/assets/app-b41a7a2c.js>; rel="modulepreload", <http://54.153.175.10/build/assets/Login-7bdd4aed.js>; rel="modulepreload", <http://54.153.175.10/build/assets/GuestLayout-093dfc38.js>; rel="modulepreload", <http://54.153.175.10/build/assets/TextInput-e895b4f0.js>; rel="modulepreload", <http://54.153.175.10/build/assets/PrimaryButton-bce44d7d.js>; rel="modulepreload", <http://54.153.175.10/build/assets/ApplicationLogo-5c020542.js>; rel="modulepreload", <http://54.153.175.10/build/assets/_plugin-vue_export-helper-c27b6911.js>; rel="modulepreload"
+Vary: X-Inertia,Accept-Encoding
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Im1XOUxoejJXbHB1aWVBbmpDd3lVREE9PSIsInZhbHVlIjoiVGZTOWdxNmtjZTVvamVHN0VvNHZJcWJoYnNVZEZZUHhuVmpjdTBSOXovUWl5U0k1OUNwSS80c3NTZ0t5Q3E2d0d5Qi92b3hISWVibUx2VVB5VmgyQms2TzhnUkRHU1VnS2JHNWdQalpOeU5OR0tTQnUrTTBBUDlPbzRGcEJzWHYiLCJtYWMiOiI2ZWY3NTJjZjdmNDJjYmFjNjMyZTdmN2FjYzUxNDIzM2YxNTRhNmVjNjQyOTBjYjJjMjI3MzhiMjE3ZjQxYTE0IiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 14:10:49 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: bargain_chemist_staging_session=eyJpdiI6Ikwvc3dpSmluTjRIUTdrMXpIazVsb2c9PSIsInZhbHVlIjoiN1VEcU11MlJXMzZDckFhUG1Ed3VWaFdlR3ppenZkQlRHSlJ1OEZuVWc5VE1zZ1pTekt6bTR6YUFkYzVJb3RnYVovL0pSMEI1NkF0ZFA4aHc3ODlPd3RDL3RtM2xjNk8rOVJjQlNaUjhmTTFQQXE3TlBVUmE3NmRlRitrL2ZGNVgiLCJtYWMiOiJlZGFjZDdlZjg4N2IwZjhiOGI3YTAyZWE2ZWY0YzdmOTY1ZDkzM2ZmODY3MDc0MjBlNDFkZjIzOWMzOGVhMWM3IiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 14:10:49 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Public domain registry Operations
+IP: 103.211.217.101
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k
+Last-Modified: Wed, 25 Jun 2025 09:48:32 GMT
+ETag: "4294-63862590d38ad"
+Accept-Ranges: bytes
+Content-Length: 17044
+Content-Type: text/html; charset=UTF-8
+
+
+
+Monaco-Telecom
+IP: 80.94.97.120
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+Location: https://vlw-cmb-s01.cmb.mc/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+AdSpirit GmbH
+IP: 213.95.198.73
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.31
+P3P: policyref="https://help.adspirit.de/w3c/adspirit.p3p", CP="NOI DSP COR NID PSAo PSDo IVAo IVDo OUR STP UNI COM NAV DEM"
+Cache-Control: no-store, no-cache, must-revalidate
+Expires: 0
+Pragma: no-cache
+Access-Control-Allow-Origin: *
+X-XSS-Protection: 0
+Last-Modified: Thu, 25 Sep 2025 12:10:49 GMT
+Location: http://www1.adtiger.de/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+HostDime.com, Inc.
+IP: 198.49.67.36
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache mod_bwlimited/1.4
+Upgrade: h2,h2c
+Connection: Upgrade
+Content-Length: 6899
+Content-Type: text/html
+
+
+
+Server Hosting Service                         (NTTPCCommunications,Inc.)
+IP: 119.245.186.216
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+Content-Length: 59
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 3.17.22.200
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+X-Mod-Pagespeed: 1.13.35.2-0
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 6346
+Content-Type: text/html; charset=UTF-8
+
+
+
+HDTIDC LIMITED
+IP: 91.204.226.61
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:48 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Sun, 14 Sep 2025 13:19:23 GMT
+ETag: "52e-63ec2bc3dacc0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+OVH US LLC
+IP: 40.160.45.229
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+Location: https://40.160.45.229/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+KPN B.V.
+IP: 80.60.151.119
+HTTP/1.1 401 Unauthorized
+Server: Apache
+Connection: Close
+Content-type: text/html
+WWW-Authenticate: Digest realm="DSLForum CPE Management", algorithm=MD5, qop=auth, stale=FALSE, nonce="f1c3d929119c3e2a0f3191376cfd0b10", opaque="5ccc069c403ebaf9f0171e9517f40e41"
+
+<HEAD><TITLE>401 Authorization Required</TITLE></HEAD>
+<BODY><H1>401 Authorization Required</H1>
+Browser not authentication-capable or authentication failed.
+</BODY>
+
+
+webhosting servers
+IP: 85.128.151.31
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-CDN-nazwa.pl-location: LA
+X-CDN-nazwa.pl-policyused: cdn=1209600
+X-CDN-nazwa.pl-cache: MISS
+Server: Apache/2
+
+
+
+IP Tech AG
+IP: 217.71.88.113
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:48 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 22 Mar 2024 13:25:06 GMT
+ETag: "c5-6143fc0949a34"
+Accept-Ranges: bytes
+Content-Length: 197
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Goffard Frederic
+IP: 51.254.153.134
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:48 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Mon, 01 Sep 2025 06:55:10 GMT
+ETag: "6aa-63db7da44e819"
+Accept-Ranges: bytes
+Content-Length: 1706
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Network Solutions, LLC
+IP: 108.179.192.44
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:47 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 21 Aug 2022 09:24:28 GMT
+Accept-Ranges: bytes
+Content-Length: 2361
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+HostPapa
+IP: 198.23.181.45
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:47 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: https://198.23.181.45/
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 210.172.183.203
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:10:47 GMT
+Server: Apache
+Last-Modified: Tue, 07 Jan 2025 05:20:28 GMT
+Accept-Ranges: bytes
+Content-Length: 1091
+Content-Type: text/html
+
+
+
+XSERVER Inc.
+IP: 162.43.17.30
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:10:46 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+HIVELOCITY, Inc.
+IP: 23.111.160.187
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:46 GMT
+Server: Apache
+Location: https://23.111.160.187/
+Content-Length: 207
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Dattatec.com
+IP: 200.58.106.236
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:56 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Wed, 15 Aug 2018 12:41:16 GMT
+ETag: "4b3-57378a475b300"
+Accept-Ranges: bytes
+Content-Length: 1203
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+CITY TELE COIN
+IP: 12.215.216.140
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Last-Modified: Wed, 19 Feb 2025 22:11:11 GMT
+Accept-Ranges: bytes
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 55
+Date: Thu, 25 Sep 2025 12:10:45 GMT
+
+
+
+OVH Hosting, Inc.
+IP: 15.235.55.143
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:45 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Content-Length: 447
+Content-Type: text/html;charset=ISO-8859-1
+
+
+
+Tencent Cloud Computing (Beijing) Co., Ltd
+IP: 101.43.211.29
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:53 GMT
+Server: Apache/2.4.39 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9a mod_log_rotate/1.02
+X-Powered-By: PHP/5.5.9
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=2cc68140kesv8lu5849m4gt7t5; path=/
+Content-Length: 0
+Content-Type: text/html;charset=utf-8
+
+
+
+Hetzner Online GmbH
+IP: 95.217.129.54
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 03:06:59 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Wed, 17 Apr 2024 14:28:47 GMT
+ETag: "106d5-6164bac2925c0"
+Accept-Ranges: bytes
+Content-Length: 67285
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Hetzner Online GmbH
+IP: 65.109.33.58
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 01:56:29 GMT
+Server: Apache/2.4
+Location: https://www.uni-muenster.de/
+Content-Length: 360
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+CISCO SYSTEMS, INC.
+IP: 64.102.250.35
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:13 GMT
+Server: Apache/2.4.63 (Ubuntu)
+Last-Modified: Tue, 13 Dec 2022 22:28:03 GMT
+ETag: "c1-5efbd2216664a"
+Accept-Ranges: bytes
+Content-Length: 193
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Ministerio De Economia, Comercio Y Empresa
+IP: 185.73.174.205
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:44 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://185.73.174.205/
+Content-Length: 287
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+XSERVER Inc.
+IP: 85.131.251.158
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:10:45 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Vultr Holdings, LLC
+IP: 45.76.219.193
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:44 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+
+
+Jordanian mobile phone services Ltd
+IP: 80.90.162.100
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:16:21 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+CHINANET SHANGHAI PROVINCE NETWORK
+IP: 180.167.33.169
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:19 GMT
+Server: Apache
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1800
+Access-Control-Allow-Methods: GET, POST, PATCH, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, X-CSRF-TOKEN, X-Requested-With,token
+Access-Control-Allow-Origin: *
+Upgrade: h2
+Connection: Upgrade, close
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+
+
+
+OVH SAS
+IP: 162.19.25.231
+HTTP/1.1 200 OK
+Date: Wed, 17 Sep 2025 20:54:06 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+BisectHosting
+IP: 144.34.86.179
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 20:55:58 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Thu, 15 Aug 2024 22:20:27 GMT
+ETag: "0-61fc03ff7c5c1"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Beyond Relationship Marketing GmbH
+IP: 45.140.9.254
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Sep 2025 09:55:55 GMT
+Server: Apache/2.4.58 (Unix) OpenSSL/1.1.1w PHP/8.2.8
+Location: https://45.140.9.254/
+Content-Length: 229
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Solenovo Oy, Joensuu
+IP: 62.204.21.40
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 06:55:51 GMT
+Server: Apache
+Location: https://winnovatest-plus.solenovo.fi/
+Content-Length: 245
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Zuercher Hochschule fuer Angewandte Wissenschaften ZHAW
+IP: 160.85.67.178
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:42 GMT
+Server: Apache
+Location: https://160.85.67.178/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Aruba S.p.A. - Cloud Services IT3
+IP: 195.231.79.140
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:42 GMT
+Server: Apache
+Location: https://195.231.79.140/
+Content-Length: 207
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+National Telecom Public Company Limited 72 Charoenkrung Road Bangrak Bangkok THAILAND 10501
+IP: 61.7.239.116
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:15:53 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Location: https://61.7.239.116/
+Content-Length: 307
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 88.198.84.105
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:42 GMT
+Server: Apache
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), usb=()
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Content-Length: 2103
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' ssh: rdp:; img-src 'self' data: https://*.tile.openstreetmap.org/ ; connect-src 'self' https://crash.checkmk.com/ https://license.checkmk.com/api/verify; frame-ancestors 'self' ; base-uri 'self'; form-action 'self' javascript: 'unsafe-inline'; object-src 'self'; worker-src 'self' blob:
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+
+
+
+Chunghwa Telecom Co.,Ltd.
+IP: 59.124.164.159
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:42 GMT
+Server: Apache
+Location: https://59.124.164.159/
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SlashWerk
+IP: 185.245.98.182
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:42 GMT
+Server: Apache/2.2.22 (Debian)
+Vary: Accept-Encoding
+Content-Length: 721
+Content-Type: text/html;charset=UTF-8
+
+
+
+Chunghwa Telecom Co.,Ltd.
+IP: 220.130.219.109
+HTTP/1.1 400 Bad Request
+Date: Tue, 23 Sep 2025 10:58:34 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1;mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' https: data:; frame-ancestors 'self';
+X-Content-Security-Policy: default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' https: data:; frame-ancestors 'self';
+X-WebKit-CSP: default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' https: data:; frame-ancestors 'self';
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Length: 483
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hosteurope GmbH
+IP: 176.28.22.251
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 04:31:32 GMT
+Server: Apache
+Cache-Control: no-cache
+Content-Type: text/html; charset=UTF-8
+Expires: -1
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+X-Powered-By: PleskLin
+Transfer-Encoding: chunked
+
+
+
+Konecta de Mexico, S. de R.L. de C.V.
+IP: 201.159.23.37
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:50:01 GMT
+Server: Apache/2.4.38 (Debian)
+Vary: Accept-Encoding
+Content-Length: 5384
+Content-Type: text/html; charset=UTF-8
+
+
+
+Hormuud-Telecom-Somalia-inc
+IP: 41.78.75.187
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:55 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+
+
+P.D.R Solutions FZC
+IP: 66.116.199.18
+HTTP/1.1 421 Misdirected Request
+Date: Thu, 25 Sep 2025 12:10:41 GMT
+Server: Apache
+Content-Length: 322
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+None
+IP: 136.243.238.148
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:35 GMT
+Server: Apache/2.4.6 (CentOS) PHP/7.4.7
+X-Powered-By: PHP/7.4.7
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkwrRHczYkdZcEhGU2ZVSGpoU2g0SkE9PSIsInZhbHVlIjoiQlNkTkwxbWtKSzVOUCtZXC9RV1BlOHpVT2NcL1wvckEyZnZ6V3BSc2FRZjE4eWd2Ykg3YmJ6VGJPXC9oQ1VYTkRHXC9aIiwibWFjIjoiNmRhYTI2Mjc4OWY2NjYyMTUzYmM4MTc4NDU2NDVjOWQ4OTAzOTZmOTI4ODVjZWMxMzk4NzI3MTdjNWY1NjA2MyJ9; expires=Thu, 25-Sep-2025 14:10:40 GMT; Max-Age=7200; path=/
+Set-Cookie: holidays_session=eyJpdiI6IjJLZmdEcFlFV2liV2owT2Foc05RK2c9PSIsInZhbHVlIjoieXRQK2p5U2VTeUcyQUdCcVlLWlR5MzZ3VG5RWXk0bEE1UUloU2FHZmhKRGlCQXVZanptdGo1N1hvTWVNd2xjMCIsIm1hYyI6ImZkZTdhOGViY2E3NjkxOTcwZDExMzczYTVlY2I4ZTFiMzg4YWRjYmQ5MjM5ZWJmYjhjZTEwZDAxMDY4Y2Q1NDcifQ%3D%3D; expires=Thu, 25-Sep-2025 14:10:40 GMT; Max-Age=7200; path=/; httponly
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Ocenture
+IP: 72.32.7.73
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 10:14:50 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: https://72.32.7.73/
+Vary: Accept-Encoding
+Content-Length: 203
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+A100 Row Inc
+IP: 51.16.32.243
+HTTP/1.1 200 OK
+Date: Sun, 14 Sep 2025 08:06:03 GMT
+Server: Apache/2.4.62 (Amazon Linux)
+Last-Modified: Wed, 29 Jan 2025 08:09:32 GMT
+ETag: "2d0-62cd3d45a83d3"
+Accept-Ranges: bytes
+Content-Length: 720
+Content-Type: text/html; charset=UTF-8
+
+
+
+OVH Singapore PTE. LTD
+IP: 51.79.186.94
+HTTP/1.1 302 Found
+Date: Tue, 23 Sep 2025 16:19:02 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: method not allowed
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Coimbra Importação e Exportação Ltda.
+IP: 200.172.91.200
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+OVH Sp. z o. o.
+IP: 51.83.136.174
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:40 GMT
+Server: Apache/2.4.62 (AlmaLinux)
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+TELEFÔNICA BRASIL S.A
+IP: 201.91.21.146
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:40 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.70.58
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Sep 2025 17:05:04 GMT
+Server: Apache
+Accept-Ranges: bytes
+Content-Length: 4961
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon Technologies Inc.
+IP: 35.168.202.180
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.18
+Link: <https://35.168.202.180/wp-json/>; rel="https://api.w.org/", <https://35.168.202.180/wp-json/wp/v2/pages/128>; rel="alternate"; type="application/json", <https://35.168.202.180/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+X-Mod-Pagespeed: 1.13.35.2-0
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 236839
+Content-Type: text/html; charset=UTF-8
+
+
+
+University of the Philippines Baguio
+IP: 202.92.156.86
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache
+Cache-Control: max-age=0, must-revalidate, no-store, private
+x-frame-options: deny
+x-content-type: nosniff
+Strict-Transport-Security: max-age=63072000; inlcudeSubDomains; preload
+Feature-Policy: accelorometer 'none'; autoplay 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; encrypted-media 'self'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'self'; publickey-credentials-get 'self'; sync-xhr 'self'; usb 'none'; screen-wake-lock 'self'; web-share 'self'; xr-spatial-tracking 'none';
+X-Debug-Token: be7314
+X-Debug-Token-Link: http://127.0.0.1:8088/_profiler/be7314
+X-Robots-Tag: noindex
+Expires: Thu, 25 Sep 2025 12:10:38 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PHPSESSID=7jspr87gjp3v8a7lnms9harsak; path=/; HttpOnly; SameSite=lax
+Transfer-Encoding: chunked
+
+
+
+Godaddy.com
+IP: 148.66.138.111
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache
+Location: http://www.148.66.138.111/
+Content-Length: 234
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Rochester Institute of Technology
+IP: 129.21.34.164
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:37 GMT
+Server: Apache/2.4.62 (Debian)
+Location: https://129.21.34.164/
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.73.12
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache/2.2.31
+Content-Length: 321
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.66.212
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache/2.2.31
+Content-Length: 343
+Connection: close
+Content-Type: text/html;charset=ISO-8859-1
+
+
+
+XSERVER Inc.
+IP: 85.131.245.35
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 11:12:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.75.124
+HTTP/1.1 401 Authorization Required
+Date: Thu, 25 Sep 2025 12:10:38 GMT
+Server: Apache/2.2.31
+WWW-Authenticate: Basic realm="/home/vps100824047/kanzaki001.isttech.co.jp"
+Content-Length: 533
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+HOSTING DUNYAM BILGI ILETISIM TEKNOLOJILERI TICARET LIMITED SIRKETI
+IP: 91.151.89.110
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 11:27:48 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.28.103.14
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:34 GMT
+Server: Apache
+Link: <http://202.28.103.14/wp-json/>; rel="https://api.w.org/", <http://202.28.103.14/wp-json/wp/v2/pages/1735>; rel="alternate"; type="application/json", <http://202.28.103.14/>; rel=shortlink
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+NetTuner Corp., dba Webmasters.com
+IP: 51.81.122.36
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 11:22:28 GMT
+Server: Apache/2.2.22
+X-Powered-By: PHP/5.3.16
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Scaleway Dedibox - Paris, France
+IP: 163.172.56.101
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 10:05:22 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/8.1.5
+X-Powered-By: PHP/8.1.5
+Content-Length: 54
+Content-Type: text/html; charset=UTF-8
+
+
+
+MetroLine Sp. z o.o.
+IP: 91.239.168.130
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:37 GMT
+Server: Apache/2.4.65 (Debian)
+Vary: Accept-Encoding
+Content-Length: 556
+Content-Type: text/html;charset=UTF-8
+
+
+
+OVH SAS
+IP: 146.59.28.105
+HTTP/1.1 200 OK
+Date: Thu, 18 Sep 2025 08:11:55 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Last-Modified: Mon, 19 Dec 2016 08:28:04 GMT
+ETag: "29cd-543feb2cbad00"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Retelit Digital Services S.p.A.
+IP: 77.93.249.206
+HTTP/1.1 503 Service Unavailable
+Date: Thu, 25 Sep 2025 02:05:48 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Cache-Control: no-cache, private
+Upgrade: h2,h2c
+Connection: Upgrade, close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Scaleway Dedibox - Paris, France
+IP: 163.172.161.144
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:35 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Thu, 25 Sep 2025 12:10:35 GMT
+Set-Cookie: PHPSESSID=obvagemdnarjrmpp5msrlr01mb; path=/; HttpOnly
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+DoHost.US
+IP: 192.198.83.9
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:35 GMT
+Server: Apache
+Content-Length: 481
+Content-Type: text/html;charset=ISO-8859-1
+
+
+
+Virtono Networks SRL
+IP: 81.181.108.108
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 02:26:51 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ulrk8jk2f2l9o8l70qijpthpj2; path=/
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Alibaba Cloud - HK
+IP: 47.244.77.93
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:35 GMT
+Server: Apache
+Last-Modified: Thu, 21 Jan 2021 11:35:05 GMT
+ETag: "181309-74-5b9677688cc40"
+Accept-Ranges: bytes
+Content-Length: 116
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+Wunderman Thompson Technology Sp. z o.o.
+IP: 91.202.101.7
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 06:57:51 GMT
+Server: Apache
+Location: https://confluence.vml-es.com/
+Content-Length: 238
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Telmex Colombia S.A.
+IP: 181.49.90.144
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 11:18:16 GMT
+Server: Apache/2.4.38 (Debian)
+Content-Length: 278
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Contabo GmbH
+IP: 62.171.169.243
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 07:30:21 GMT
+Server: Apache/2.4.62 (Debian)
+Last-Modified: Tue, 25 Jan 2022 21:04:16 GMT
+ETag: "29cd-5d66e6d8c6a20"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.78.51
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:53:15 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GNET INC.
+IP: 38.45.127.101
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Sep 2025 06:47:18 GMT
+Server: Apache
+Content-Length: 0
+Connection: close
+
+
+
+Amazon Data Services Ireland Limited
+IP: 18.202.151.106
+HTTP/1.1 404 Not Found
+Date: Wed, 10 Sep 2025 15:06:10 GMT
+Server: Apache
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=edge
+X-Content-Type-Options: nosniff
+Content-Length: 1192
+Content-Type: text/html; charset=UTF-8
+
+
+
+World4You.com SNI01
+IP: 81.19.159.59
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:33 GMT
+Server: Apache
+Last-Modified: Mon, 16 Oct 2023 08:57:12 GMT
+ETag: "23b-607d19792fac5"
+Accept-Ranges: bytes
+Content-Length: 571
+Content-Type: text/html
+
+
+
+Reseau Optique du Campus de la Doua
+IP: 134.214.142.49
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:49:13 GMT
+Server: Apache/2.4.62 (Debian)
+Last-Modified: Wed, 14 Dec 2022 10:45:12 GMT
+ETag: "29cd-5efc76e52be8d"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Internet Utilities Europe and Asia Limited
+IP: 140.150.216.99
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 12:51:31 GMT
+Server: Apache
+Location: https://www.sensaphone.net/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.69.193
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:58:53 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Unified Layer
+IP: 74.220.219.26
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 06:57:42 GMT
+Server: Apache
+Content-Length: 315
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+European Space Research and Technology Centre
+IP: 131.176.80.35
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 21:55:22 GMT
+Server: Apache/2.4.65 (Ubuntu)
+Location: https://actcloud.estec.esa.int/
+Content-Length: 294
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+VI NA DATA INFORMATION TECHNOLOGY - SERVICE JOINT STOCK COMPANY
+IP: 61.28.233.73
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:33 GMT
+Server: Apache/2.4.37 (Rocky Linux)
+Last-Modified: Wed, 27 Jul 2022 18:04:30 GMT
+ETag: "1dc4-5e4cd3f996780"
+Accept-Ranges: bytes
+Content-Length: 7620
+Content-Type: text/html; charset=UTF-8
+
+
+
+MCNC
+IP: 204.85.28.56
+HTTP/1.1 302 Found
+Date: Thu, 18 Sep 2025 13:12:22 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.1.6
+Set-Cookie: SHODOR_UNIVERSAL_1_5=ul1e72kp858bvb6532hgaf5kj4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: https://204.85.28.56/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+SAKURA Internet Inc.
+IP: 160.16.208.244
+HTTP/1.1 403 Forbidden
+Date: Sat, 20 Sep 2025 03:21:29 GMT
+Server: Apache/2.2.15 (CentOS)
+Accept-Ranges: bytes
+Content-Length: 4961
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+Societe Francaise Du Radiotelephone - SFR SA
+IP: 77.197.140.43
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:31 GMT
+Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10
+Location: https://77.197.140.43/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+rocket-media GmbH & Co. KG
+IP: 213.95.198.197
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 04:39:50 GMT
+Server: Apache/2.4.65 (Debian)
+Last-Modified: Wed, 05 Mar 2025 14:18:31 GMT
+ETag: "29cd-62f9910631b59"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+HIVELOCITY, Inc.
+IP: 23.111.152.66
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:32 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Set-Cookie: opengamepanel_web=b3k2p90rl6t9pgmd6acoq9nsvr; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+RP Axis Development LLC
+IP: 66.7.222.186
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 02:33:36 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Content-Length: 6942
+Content-Type: text/html
+
+
+
+ICT
+IP: 212.24.169.65
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:31 GMT
+Server: Apache/2.4.65 (Debian)
+Location: https://212.24.169.65/
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.73.218
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:41:14 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Korea Telecom
+IP: 221.163.32.81
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 02:52:13 GMT
+Server: Apache/2.4.49 (Unix) OpenSSL/1.1.1h mod_jk/1.2.46
+Location: https://221.163.32.81/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+PT. Fiber Networks Indonesia
+IP: 38.210.85.173
+HTTP/1.1 400 Bad Request
+Date: Wed, 24 Sep 2025 16:38:25 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Content-Length: 437
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Comunitel Global S.A.
+IP: 77.228.222.16
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2
+Location: http://pertsonahelburu.blog.euskadi.eus/
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Thu, 25 Sep 2025 12:03:27 GMT
+X-Varnish: 365478511
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+
+
+
+GMO Pepabo, Inc.
+IP: 157.7.105.134
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 10:15:33 GMT
+Server: Apache
+Last-Modified: Wed, 03 Aug 2022 05:50:37 GMT
+Accept-Ranges: none
+Content-Length: 1509
+Vary: Range,Accept-Encoding
+Content-Type: text/html
+
+
+
+Newfold Digital, Inc.
+IP: 66.249.29.107
+HTTP/1.1 200 OK
+Date: Mon, 15 Sep 2025 12:12:24 GMT
+Server: Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Liquid Web, L.L.C
+IP: 184.106.55.107
+HTTP/1.1 200 OK
+Server: Apache/2.4
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 24 Sep 2025 17:08:43 GMT
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Set-Cookie: X-Mapping-egcoklee=46894AEE08497D856FD309B10E90140C; path=/
+Last-Modified: Fri, 17 Mar 2023 04:25:04 GMT
+Content-Length: 201
+
+
+
+Amazon Technologies Inc.
+IP: 35.174.114.174
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 06:42:32 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Sat, 19 Nov 2022 13:28:32 GMT
+ETag: "4719-5edd2cc6a8000"
+Accept-Ranges: bytes
+Content-Length: 18201
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+OVH Sp. z o. o.
+IP: 51.68.152.155
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:15:54 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Amazon Data Services Japan
+IP: 13.115.18.42
+HTTP/1.1 200 OK
+Date: Wed, 17 Sep 2025 20:15:18 GMT
+Server: Apache
+Last-Modified: Mon, 25 Nov 2013 01:16:09 GMT
+ETag: "1e0856-1b-4ebf61be02840"
+Accept-Ranges: bytes
+Content-Length: 27
+Connection: close
+Content-Type: text/html
+
+banhostdev01.channel.or.jp
+
+
+GMO Internet Group, Inc.
+IP: 133.130.70.187
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:11:42 GMT
+Server: Apache
+Content-Length: 3172
+Content-Type: text/html; charset=UTF-8
+
+
+
+Eurofiber Cloud Infra B.V.
+IP: 77.243.233.195
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:38:15 GMT
+Server: Apache/2.4.41
+Last-Modified: Tue, 25 Aug 2020 11:45:34 GMT
+ETag: "1a-5adb23db2deaf"
+Accept-Ranges: bytes
+Content-Length: 26
+Content-Type: text/html
+
+
+
+MAGAZINE LUIZA S/A
+IP: 201.54.12.233
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:30 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Tue, 29 Apr 2025 16:50:19 GMT
+ETag: "2-633ed987fdde5"
+Accept-Ranges: bytes
+Content-Length: 2
+Content-Type: text/html
+
+
+
+Leaseweb USA, Inc.
+IP: 207.58.130.109
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 01:04:34 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+THINline s.r.o.
+IP: 91.239.203.97
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:30 GMT
+Server: Apache/2.4.65 (Debian)
+X-Powered-By: PHP/8.2.29
+Cache-Control: max-age=7200
+Expires: Thu, 25 Sep 2025 14:10:30 GMT
+Content-Length: 9815
+Content-Type: text/html; charset=UTF-8
+
+
+
+Hetzner Online GmbH
+IP: 116.203.190.2
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 06:08:39 GMT
+Server: Apache/2.4.52 (Ubuntu)
+X-Powered-By: PHP/8.1.2-1ubuntu2.22
+Set-Cookie: ips4_IPSSessionFront=um79jcj4le3d3a019jtgahcal8; path=/; secure; HttpOnly
+X-IPS-LoggedIn: 0
+Vary: Cookie
+Content-Length: 0
+X-XSS-Protection: 0
+Cross-Origin-Opener-Policy: same-origin
+X-Frame-Options: sameorigin
+Content-Security-Policy: frame-ancestors 'self'
+X-Content-Security-Policy: frame-ancestors 'self'
+Referrer-Policy: strict-origin-when-cross-origin
+Location: https://www.fishing.org.pl/
+Expires: 0
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0, s-maxage=0
+Connection: close
+Content-Type: ;charset=UTF-8
+
+
+
+Elkdata Infra
+IP: 185.7.252.116
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 05:59:09 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 06 Nov 2011 11:22:37 GMT
+ETag: "0-4b10f27c9b940"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+GigeNET
+IP: 70.32.1.106
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:18:21 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+PT Indonesia Comnets Plus
+IP: 103.94.2.35
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 07:13:20 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+X-Powered-By: PHP/8.2.12
+Cache-Control: no-cache, private
+Link: <http://103.94.2.35/build/assets/app-5QTr6JQj.css>; rel="preload"; as="style", <http://103.94.2.35/build/assets/app-e7SAH3f4.js>; rel="modulepreload", <http://103.94.2.35/build/assets/Login-CS7LPGcU.js>; rel="modulepreload", <http://103.94.2.35/build/assets/Checkbox-CH5gtret.js>; rel="modulepreload", <http://103.94.2.35/build/assets/InputError-DOvGXfSP.js>; rel="modulepreload", <http://103.94.2.35/build/assets/InputLabel-CWBE6dfb.js>; rel="modulepreload", <http://103.94.2.35/build/assets/PrimaryButton-j277bcsd.js>; rel="modulepreload", <http://103.94.2.35/build/assets/TextInput-CjrSNWG-.js>; rel="modulepreload", <http://103.94.2.35/build/assets/ApplicationLogo-Ck3dB8Q8.js>; rel="modulepreload", <http://103.94.2.35/build/assets/proxy-DRVlHVZG.js>; rel="modulepreload", <http://103.94.2.35/build/assets/sweetalert2.esm.all-B0Dix5B2.js>; rel="modulepreload", <http://103.94.2.35/build/assets/index-CTGX3Ie-.js>; rel="modulepreload", <http://103.94.2.35/build/assets/iconBase-7zQuiMsm.js>; rel="modulepreload"
+Vary: X-Inertia,Origin
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Ik9kU3FIbzJ4Z0xHUnBpeE4yTmZpMGc9PSIsInZhbHVlIjoiRUhOVUJZY1gxS3NOM2k4OTI1MHZhWEpvbXQ1cU5vMXVWR2JYNVdrd2ZoeHdlZ3BEVlJWNzM3UGFjeXFFMndySnhxM2ZBZ2lTVzR2ckRqUmdSYjltSHd5OXdpT3RrZTAwb0Q2Yjl2OFZqRkJyRXlTRzljN0V6R3lqRFExSmM0anQiLCJtYWMiOiIyZDczNTA5M2NmMWIxMTQ2MjFmMmU5NjAxZGFlODdiMTYzNzZhYjc4YTc3ZmJlYjI1OGViODBhYzdmMTk3ZjY1IiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 09:13:21 GMT; Max-Age=7200; path=/; samesite=lax
+Set-Cookie: rs_mitra_medika_session=eyJpdiI6IjRjV2toMFVzbzY5TnIzMUl0b0lCRmc9PSIsInZhbHVlIjoidWdQNk9OQ0crbWhKR1dVc2hMRnp1TjFWa05xRWM5NGxIUkpFenlCT01JU1FqeFJvanpWTFVOaGhPTkdEYWgwM3pkZzhmb2hSUitRTUdVL0dTeHcwaTVNZDVGRm1kWDZuR29OUWN6N1Q5RVR0Z1FWaCtOOEZpMDJnVk40emIydWsiLCJtYWMiOiJiNzQ0NzU0ODU5ZTI1Zjg3Mzc2ZDhiZmZlZTc3OWNmYTZjOWU4YTJhZmU3YmE4NjcyN2IxYjBhNTVmNTQyZmJkIiwidGFnIjoiIn0%3D; expires=Thu, 25 Sep 2025 09:13:21 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 103.3.188.146
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:29 GMT
+Server: Apache/2.2.15 (CentOS)
+Location: https://103.3.188.146/
+Vary: Accept-Encoding
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.76.175
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 11:22:13 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Index Exchange Inc.
+IP: 209.204.236.55
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:30 GMT
+Server: Apache
+Last-Modified: Wed, 16 Sep 2020 21:39:10 GMT
+ETag: "0"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Surfplanet GmbH
+IP: 81.20.131.23
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Sep 2025 06:52:32 GMT
+Server: Apache
+Location: https://www.diskepto.de/
+Cache-Control: max-age=86400
+Expires: Wed, 24 Sep 2025 06:52:32 GMT
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Open Computer Network
+IP: 210.154.230.168
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 00:58:05 GMT
+Server: Apache
+Last-Modified: Mon, 02 Mar 2015 07:02:23 GMT
+ETag: "21a36cd5-1adf-51048ccc97dc0"
+Accept-Ranges: bytes
+Content-Length: 6879
+Content-Type: text/html
+
+
+
+HongKong Service
+IP: 122.10.32.23
+HTTP/1.1 403 Forbidden
+Date: Tue, 23 Sep 2025 03:56:21 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/5.4.16
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>Apache HTTP Server Test Page powered by CentOS</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Bootstrap -->
+    <link href="/noindex/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="noindex/css/open-sans.css" type="text/css" />
+
+<style type="text/css"><!--		 
+
+body {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  font-weight: 100;
+  color: #ccc;
+  background: rgba(10, 24, 55, 1);
+  font-size: 16px;
+}
+
+h2, h3, h4 {
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  color: #333;
+  background: rgb(212,212,221); /* Old browsers */
+  background: radial-gradient(ellipse at center top, rgba(255,255,255,1) 0%,rgba(174,174,183,1) 100%); /* W3C */
+}
+
+.jumbotron h1 {
+  font-size: 128px;
+  font-weight: 700;
+  color: white;
+  text-shadow: 0px 2px 0px #abc,
+               0px 4px 10px rgba(0,0,0,0.15),
+               0px 5px 2px rgba(0,0,0,0.1),
+               0px 6px 30px rgba(0,0,0,0.1);
+}
+
+.jumbotron p {
+  font-size: 28px;
+  font-weight: 100;
+}
+
+.main {
+   background: white;
+   color: #234;
+   border-top: 1px solid rgba(0,0,0,0.12);
+   padding-top: 30px;
+   padding-bottom: 40px;
+}
+
+.footer {
+   border-top: 1px solid rgba(255,255,255,0.2);
+   padding-top: 30px;
+}
+
+    --></style>
+</head>
+<body>
+  <div class="jumbotron text-center">
+    <div class="container">
+   	  <h1>Testing 123..</h1>
+  		<p class="lead">This page is used to test the proper operation of the <a href="http://apache.org">Apache HTTP server</a> after it has been installed. If you can read this page it means that this site is working properly. This server is powered by <a href="http://centos.org">CentOS</a>.</p>
+		</div>
+  </div>
+  <div class="main">
+    <div class="container">
+       <div class="row">
+  			<div class="col-sm-6">
+    			<h2>Just visiting?</h2>
+			  		<p class="lead">The website you just visited is either experiencing problems or is undergoing routine maintenance.</p>
+  					<p>If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name "webmaster" and directed to the website's domain should reach the appropriate person.</p>
+  					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to "webmaster@example.com".</p>
+	  			</div>
+  				<div class="col-sm-6">
+	  				<h2>Are you the Administrator?</h2>
+		  			<p>You should add your website content to the directory <tt>/var/www/html/</tt>.</p>
+		  			<p>To prevent this page from ever being used, follow the instructions in the file <tt>/etc/httpd/conf.d/welcome.conf</tt>.</p>
+
+	  				<h2>Promoting Apache and CentOS</h2>
+			  		<p>You are free to use the images below on Apache and CentOS Linux powered HTTP servers.  Thanks for using Apache and CentOS!</p>
+				  	<p><a href="http://httpd.apache.org/"><img src="images/apache_pb.gif" alt="[ Powered by Apache ]"></a> <a href="http://www.centos.org/"><img src="images/poweredby.png" alt="[ Powered by CentOS Linux ]" height="31" width="88"></a></p>
+  				</div>
+	  		</div>
+	    </div>
+		</div>
+	</div>
+	  <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">          
+            <h2>Important note:</h2>
+            <p class="lead">The CentOS Project has nothing to do with this website or its content,
+            it just provides the software that makes the website run.</p>
+            
+            <p>If you have issues with the content of this site, contact the owner of the domain, not the CentOS project. 
+            Unless you intended to visit CentOS.org, the CentOS Project does not have anything to do with this website,
+            the content or the lack of it.</p>
+            <p>For example, if this website is www.example.com, you would find the owner of the example.com domain at the following WHOIS server:</p>
+            <p><a href="http://www.internic.net/whois.html">http://www.internic.net/whois.html</a></p>
+          </div>
+          <div class="col-sm-6">
+            <h2>The CentOS Project</h2>
+            <p>The CentOS Linux distribution is a stable, predictable, manageable and reproduceable platform derived from 
+               the sources of Red Hat Enterprise Linux (RHEL).<p>
+            
+            <p>Additionally to being a popular choice for web hosting, CentOS also provides a rich platform for open source communities to build upon. For more information
+               please visit the <a href="http://www.centos.org/">CentOS website</a>.</p>
+  
+
+STEINER-HR
+IP: 213.147.113.121
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 07:17:15 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Tue, 08 Jul 2025 06:44:07 GMT
+ETag: "11cca-639654972bbc0"
+Accept-Ranges: bytes
+Content-Length: 72906
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+PT Pelabuhan Indonesia III (Persero)
+IP: 103.41.110.59
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:23 GMT
+Server: Apache
+Location: https://103.41.110.59/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Aruba S.p.A. - Dedicate server Farm2
+IP: 94.177.160.116
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 05:36:58 GMT
+Server: Apache/2.4.10 (Debian)
+Last-Modified: Wed, 21 Dec 2016 17:11:39 GMT
+ETag: "178-5442e3f03a62c"
+Accept-Ranges: bytes
+Content-Length: 376
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Verizon France SAS
+IP: 212.157.21.124
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 07:31:01 GMT
+Server: Apache
+Location: https://212.157.21.124/
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+DirectVPS
+IP: 178.21.113.194
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:28 GMT
+Server: Apache
+Last-Modified: Thu, 16 Jan 2020 07:03:23 GMT
+ETag: "29cd-59c3c6bc71834"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+dataforest GmbH
+IP: 193.42.11.91
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:54:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 18 Aug 2025 17:54:12 GMT
+ETag: "29af-63ca76d5b629c"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Amazon Data Services Japan
+IP: 52.194.97.190
+HTTP/1.1 401 Unauthorized
+Date: Thu, 25 Sep 2025 12:10:29 GMT
+Server: Apache/2.4.41 (Amazon) OpenSSL/1.0.2k-fips PHP/7.2.28
+WWW-Authenticate: Basic realm="Input ID and Password."
+Content-Length: 381
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Lincoln Intermediate Unit 12
+IP: 208.67.140.197
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:48:39 GMT
+Server: Apache
+Last-Modified: Fri, 11 Apr 2025 17:25:08 GMT
+ETag: "83e-63283fbe4f9f6"
+Accept-Ranges: bytes
+Content-Length: 2110
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+University of New Mexico
+IP: 64.106.42.155
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:26 GMT
+Server: Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2
+Location: https://64.106.42.155/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Tencent cloud computing (Beijing) Co., Ltd.
+IP: 124.222.80.245
+HTTP/1.0 404 Not Found
+Date: Wed, 24 Sep 2025 13:00:05 GMT
+Server: Apache/2.2.11 (Unix) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i PHP/5.2.8 mod_apreq2-20051231/2.6.0 mod_perl/2.0.4 Perl/v5.10.0
+Content-Length: 384
+Content-Type: text/html; charset=iso-8859-1
+X-Pad: avoid browser bug
+
+
+
+Amazon Data Services Japan
+IP: 3.115.216.83
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:27 GMT
+Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c
+Set-Cookie: PHPSESSID=2vdn4ufioetpnu0ekmkhj3chda; path=/; secure
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: CsrfToken=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: CsrfToken=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/
+Content-Length: 7203
+Content-Type: text/html;charset=utf-8
+
+
+
+DSL
+IP: 77.129.29.125
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:25 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=vrup4f49e6f5i8m4a959ofb7r6; path=/; HttpOnly
+Expires: Tue, 03 Jul 2001 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Last-Modified: Thu, 25 Sep 2025 12:10:25 GMT
+Cache-Control: post-check=0, pre-check=0
+Vary: Accept-Encoding
+Content-Length: 4839
+Content-Type: text/html; charset=UTF-8
+
+
+
+Mahkamah Agung RI
+IP: 103.226.55.28
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 12:10:26 GMT
+Server: Apache
+X-XSS-Protection: 1;  mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Set-Cookie: meta=272db24bf1dee1a526371ab40d113a7e; expires=Thu, 25-Sep-2025 12:40:26 GMT; Max-Age=1800; path=/
+Set-Cookie: PHPSESSID=iuphekp9cl5s3iru22og2aiur5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Location: https://sso.mahkamahagung.go.id/cas/login?service=http%3A%2F%2F103.226.55.28%2F&gateway=true
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Content-Length: 311
+Content-Type: text/html; charset=UTF-8
+
+
+
+Infopact Netwerkdiensten B.V.
+IP: 212.29.173.132
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:27 GMT
+Server: Apache
+X-XSS-Protection: 1;  mode=block
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Location: https://apps.xelion.com
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+OVH Hosting, Inc.
+IP: 15.235.55.149
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:00:30 GMT
+Server: Apache
+Link: <https://larongeems.ca/wp-json/>; rel="https://api.w.org/", <https://larongeems.ca/wp-json/wp/v2/pages/22>; rel="alternate"; title="JSON"; type="application/json", <https://larongeems.ca/>; rel=shortlink
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+XSERVER Inc.
+IP: 210.131.218.79
+HTTP/1.1 500 Internal Server Error
+Date: Wed, 24 Sep 2025 16:40:27 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Chunghwa Telecom Co.,Ltd.
+IP: 60.251.153.25
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 18:05:43 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552000
+Content-Length: 196
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+EJIE, S.A.
+IP: 77.227.209.71
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:24 GMT
+Server: Apache
+Set-Cookie: Apache=224.107.1.126.1758802224877647; path=/
+Last-Modified: Tue, 14 Jun 2016 09:19:28 GMT
+ETag: "5be5749b-d-5353980734800"
+Accept-Ranges: bytes
+Content-Length: 13
+Content-Type: text/html
+
+
+
+Liquid Web Inc
+IP: 67.227.171.41
+HTTP/1.1 302 Found
+Date: Mon, 22 Sep 2025 08:48:38 GMT
+Server: Apache
+Location: https://dcb3.mel.org:443/
+Content-Length: 209
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Elkdata Virtual Servers
+IP: 185.7.253.31
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:49:54 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 06 Nov 2011 11:22:37 GMT
+ETag: "0-4b10f27c9b940"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+True Internet Co., Ltd.
+IP: 119.46.201.190
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:20:26 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Content-Length: 4810
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.78.61
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 20:42:00 GMT
+Server: Apache/2.4.63
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+DigitalOcean, LLC
+IP: 159.89.195.217
+HTTP/1.1 401 Unauthorized
+Date: Fri, 19 Sep 2025 08:55:33 GMT
+Server: Apache/2.4.29 (Ubuntu)
+WWW-Authenticate: Basic realm="Password Protected Area"
+Content-Length: 461
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+INFORMATION SOCIETY S.A.
+IP: 84.205.223.64
+HTTP/1.1 401 Unauthorized
+Date: Thu, 25 Sep 2025 12:10:49 GMT
+Server: Apache
+WWW-Authenticate: Basic realm="CollabNet Subversion Repository"
+Content-Length: 381
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Data Services Japan
+IP: 35.74.226.159
+HTTP/1.1 200 OK
+Date: Sun, 21 Sep 2025 21:41:49 GMT
+Server: Apache/2.4.48 () OpenSSL/1.0.2k-fips PHP/8.0.8
+Upgrade: h2,h2c
+Connection: Upgrade
+X-Powered-By: PHP/8.0.8
+Set-Cookie: PHPSESSID=j5opbvk78vff075ppblobfd5qb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Ministry of Education Computer Center
+IP: 140.109.20.157
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 17:48:02 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: https://slam.iis.sinica.edu.tw
+Content-Length: 318
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+HostGator.com LLC
+IP: 192.185.25.134
+HTTP/1.1 200 OK
+Date: Sat, 20 Sep 2025 07:32:48 GMT
+Server: Apache
+X-Robots-Tag: noindex, nofollow
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Thu, 06 Oct 2022 11:35:48 GMT
+Accept-Ranges: bytes
+Content-Length: 11816
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.69.189
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:22 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Balzer Garten- u. Landschaftsbau Natursteinhandel GmbH
+IP: 212.211.214.54
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 03:52:24 GMT
+Server: Apache
+Cache-Control: max-age=0, must-revalidate, private
+Content-Language: de
+Expires: Thu, 25 Sep 2025 03:52:24 GMT
+Set-Cookie: PHPSESSID=g3iotfruq4uvl8v0atjd2mun10; path=/; HttpOnly
+Set-Cookie: i18n_redirect=eyJ1cmwiOiJodHRwczpcL1wvd3d3LmJhbHplci1nYXJ0ZW5nZXN0YWx0dW5nLmRlXC9kZSIsImxvY2FsZSI6ImRlIiwibGFuZ3VhZ2UiOiJkZSIsImNvdW50cnkiOmZhbHNlfQ%3D%3D; expires=Fri, 25-Sep-2026 03:52:24 GMT; Max-Age=31536000; path=/; httponly
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' https: 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: ; img-src 'self' data: https: ;
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: strict-origin-when-cross-origin
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Binary Net, LLC
+IP: 216.229.0.12
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Sep 2025 14:03:47 GMT
+Server: Apache
+Location: https://216.229.0.12/
+Content-Length: 229
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SEO Hosting LTD
+IP: 198.20.165.130
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:58:09 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.68.94
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:50:06 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.70.172
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Sep 2025 22:42:49 GMT
+Server: Apache/2.4.63 (FreeBSD) OpenSSL/1.1.1w-freebsd PHP/8.1.32
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+MOSHAVERIN PARSAYE BARIN Company Ltd.
+IP: 217.172.98.87
+HTTP/1.1 200 OK
+Date: Thu, 18 Sep 2025 05:38:48 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Vultr Holdings, LLC
+IP: 64.176.36.150
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 20:10:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+X-Redirect-By: WordPress
+Location: https://darial.co.jp/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Kittelberger media Solutions GmbH
+IP: 145.253.155.221
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 10:46:07 GMT
+Server: Apache
+Location: https://www.coremannet.com/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+INEA sp. z o.o.
+IP: 85.221.199.178
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:20:25 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Last-Modified: Wed, 01 Jul 2020 11:42:59 GMT
+ETag: "20f-5a95fcb33e5a8"
+Accept-Ranges: bytes
+Content-Length: 527
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Eolas Hosted services - Datacenter MA
+IP: 178.237.110.120
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:24:15 GMT
+Server: Apache/2.4.65 (Debian)
+Last-Modified: Tue, 14 May 2019 06:16:40 GMT
+ETag: "0-588d2f9e8115e"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+OVH Sp. z o. o.
+IP: 146.59.95.129
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 13 Sep 2025 18:07:18 GMT
+Server: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1
+Location: https://www.146.59.95.129/
+Content-Length: 234
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.79.79
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:56:33 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Telstra Limited
+IP: 61.9.173.169
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 16:39:11 GMT
+Server: Apache
+Location: https://signon.sdf.telstra.com:443/login?site=knt&goto=http%3A%2F%2F61.9.173.169%3A80%2F
+Content-Length: 276
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: raa_tee=652677804.20480.0000; path=/
+
+
+
+Linode
+IP: 172.105.156.164
+HTTP/1.1 303 See Other
+Date: Tue, 23 Sep 2025 05:45:56 GMT
+Server: Apache/2.4.41 (Ubuntu)
+X-Redirect-By: Moodle
+Location: https://lms.padf.org/
+Content-Language: es-co
+Content-Length: 1539
+Content-Type: text/html; charset=UTF-8
+
+
+
+Redspeed Networks Co., Ltd.
+IP: 27.100.28.86
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:11:04 GMT
+Server: Apache/2.4.57 (Debian)
+Content-Length: 325
+Connection: close
+Content-Type: text/html;charset=UTF-8
+
+
+
+arvato INFOSCORE GmbH
+IP: 91.105.243.129
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:20 GMT
+Server: Apache
+Last-Modified: Mon, 17 Dec 2018 15:05:23 GMT
+ETag: "48d-57d391c2ef2c0"
+Accept-Ranges: bytes
+Content-Length: 1165
+Content-Type: text/html; charset=utf-8
+
+
+
+None
+IP: 212.36.83.38
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:40:07 GMT
+Server: Apache
+Last-Modified: Mon, 27 Dec 2021 15:29:58 GMT
+ETag: "7-5d422609a10df"
+Accept-Ranges: bytes
+Content-Length: 7
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.73.141
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:00:12 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+University of Warsaw Network
+IP: 212.87.3.12
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 11:55:43 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Location: http://biocomp.chem.uw.edu.pl
+Vary: Accept-Encoding
+Content-Length: 237
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Unified Layer
+IP: 162.215.101.173
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 20:57:14 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 26 Aug 2025 19:33:56 GMT
+Accept-Ranges: bytes
+Content-Length: 11816
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.75.89
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 04:25:31 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+NPS (Holdings) Limited
+IP: 152.114.70.232
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Sep 2025 06:11:07 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: DENY, SAMEORIGIN
+X-Content-Type-Options: nosniffa
+Location: https://www.lobbying.scot
+Content-Length: 233
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SKYLINK NETWORKS
+IP: 103.114.208.68
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:40:03 GMT
+Server: Apache/2.4.6 (CentOS) mod_auth_gssapi/1.3.1 mod_wsgi/3.4 Python/2.7.5 PHP/7.0.11
+X-Powered-By: PHP/7.0.11
+Set-Cookie: _frontendSessionId_lmw=mpt1dv3g8vlhrvs76n2vfokdt1; path=/; HttpOnly
+Set-Cookie: _csrf=f53526e1b95bbf3a3b260357dbb1351d84d6fa4913990487c4acebebd0859b42a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22h2sNDU1uvEPcQBxGQl-5aEEBmm-Lmndp%22%3B%7D; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 7941
+Content-Type: text/html; charset=UTF-8
+
+
+
+Ecxon Datacenter LTDA
+IP: 189.127.164.35
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 07:48:08 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+Last-Modified: Sun, 19 Nov 2023 11:10:25 GMT
+ETag: "1443-60a7f6a8cca40"
+Accept-Ranges: bytes
+Content-Length: 5187
+Content-Type: text/html
+
+
+
+Newfold Digital, Inc.
+IP: 69.6.213.73
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 03:33:23 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Thu, 28 Aug 2025 20:20:27 GMT
+Accept-Ranges: bytes
+Content-Length: 11816
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+Hetzner Online GmbH
+IP: 65.21.36.80
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 10:24:00 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; connect-src 'self' wss:; script-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; child-src 'self'; object-src 'none';
+X-Content-Type-Options: nosniff
+Location: https://65.21.36.80:443/restgui/start.html
+Content-Length: 226
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 54.86.208.8
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 10:25:54 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://54.86.208.8/
+Content-Length: 204
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+SRI International
+IP: 128.18.241.214
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 11:11:56 GMT
+Server: Apache
+Location: https://sftp.speech.sri.com/
+Content-Length: 236
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 178.63.178.77
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 09:24:03 GMT
+Server: Apache
+Last-Modified: Mon, 03 Aug 2020 09:12:03 GMT
+ETag: "ef0-5abf58831b86b"
+Accept-Ranges: bytes
+Content-Length: 3824
+X-Powered-By: PleskLin
+Content-Type: text/html
+
+
+
+HostPapa
+IP: 155.94.157.25
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 10:05:43 GMT
+Server: Apache/2.4.62 (Unix) OpenSSL/1.1.1k
+Last-Modified: Wed, 20 Aug 2025 05:08:02 GMT
+ETag: "5a-63cc4f50572c3"
+Accept-Ranges: bytes
+Content-Length: 90
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+OVH SAS
+IP: 91.121.52.202
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 10:33:33 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Tue, 06 Dec 2011 15:32:35 GMT
+ETag: "a6-4b36e24fa4ac0"
+Accept-Ranges: bytes
+Content-Length: 166
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+University of Houston
+IP: 129.7.181.38
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 11:16:44 GMT
+Server: Apache
+Location: https://space.uh.edu/
+Content-Length: 291
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+idc s1 s
+IP: 103.37.111.158
+HTTP/1.1 403 Forbidden
+Date: Sun, 07 Sep 2025 21:50:21 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hoster.KZ
+IP: 185.98.7.68
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 16:58:59 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 11 Aug 2025 13:03:11 GMT
+ETag: "29af-63c168bbd3791"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Internap Holding LLC
+IP: 198.20.76.132
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 19:19:51 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.77.32
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:01:53 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+DigitalOcean, LLC
+IP: 198.199.121.94
+HTTP/1.1 403 Forbidden
+Date: Sat, 20 Sep 2025 10:33:38 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+
+
+TekTonic
+IP: 108.161.135.184
+HTTP/1.1 302 Found
+Date: Tue, 02 Sep 2025 06:44:48 GMT
+Server: Apache
+Pragma: no-cache
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Expires: Mon, 02 Sep 2024 06:44:48 GMT
+X-Magento-Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+X-Magento-Cache-Debug: MISS
+Content-Security-Policy-Report-Only: font-src https://fonts.gstatic.com 'self' data: data: 'self' 'unsafe-inline'; form-action secure.authorize.net test.authorize.net geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com pilot-payflowlink.paypal.com www.paypal.com www.sandbox.paypal.com 'self' 'unsafe-inline'; frame-ancestors 'self'; frame-src fast.amc.demdex.net *.adobe.com secure.authorize.net test.authorize.net *.youtube.com *.youtube-nocookie.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com https://www.google.com/recaptcha/ https://player.vimeo.com https://www.youtube-nocookie.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com i.ytimg.com validator.swagger.io blueskytechmage.com mageblueskytech.com placehold.jp blob: https://updates.themepunch.tools http://updates.themepunch.tools https://updates.themepunch-ext-a.tools http://updates.themepunch-ext-a.tools https://updates.themepunch-ext-b.tools http://updates.themepunch-ext-b.tools https://dev.sliderrevolution.com https://revolution.themepunch.com http://revolution5.themepunch.com http://pbs.twimg.com https://pbs.twimg.com http://scontent.cdninstagram.com https://img.youtube.com http://live.staticflickr.com https://live.staticflickr.com data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com secure.authorize.net test.authorize.net www.googleadservices.com www.google-analytics.com www.paypalobjects.com js.braintreegateway.com www.paypal.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.sandbox.paypal.com t.paypal.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ s7.addthis.com https://player.vimeo.com https://www.youtube.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com https://fonts.googleapis.com http://fonts.googleapis.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com blob: 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net www.google-analytics.com vimeo.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.sandbox.paypal.com www.paypalobjects.com www.paypal.com pilot-payflowlink.paypal.com ekr.zdassets.com/ https://fonts.googleapis.com https://fonts.gstatic.com https://api.weatherbit.io 'self' 'unsafe-inline'; child-src http: https: blob: 'self' 'unsafe-inline'; default-src 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: PHPSESSID=9da9f76ee8cf84eb1216012b4e53f340; expires=Tue, 02-Sep-2025 07:44:48 GMT; Max-Age=3600; path=/; domain=108.161.135.184; secure; HttpOnly; SameSite=Lax
+Location: http://108.161.135.7/~hruindia/demo_fashion_1/
+X-UA-Compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+INFORMATION SOCIETY S.A.
+IP: 84.205.254.50
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Sep 2025 07:19:57 GMT
+Server: Apache/2.2.3 (CentOS)
+Accept-Ranges: bytes
+Content-Length: 5043
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+DigitalOcean, LLC
+IP: 206.189.158.105
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 09:56:33 GMT
+Server: Apache/2.4.18 (Ubuntu)
+X-Pingback: https://ethicaldigest.com/xmlrpc.php
+X-Redirect-By: WordPress
+Location: https://ethicaldigest.com/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+NGI Spa
+IP: 88.149.181.188
+HTTP/1.1 403 Forbidden
+Date: Thu, 18 Sep 2025 17:31:39 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Last-Modified: Mon, 07 Jun 2021 14:11:26 GMT
+ETag: "750-5c42d9df1df80"
+Accept-Ranges: bytes
+Content-Length: 1872
+Content-Type: text/html; charset=UTF-8
+
+
+
+Contabo GmbH
+IP: 213.136.85.207
+HTTP/1.1 200 OK
+Date: Wed, 10 Sep 2025 01:59:49 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Last-Modified: Thu, 13 Jul 2023 11:16:22 GMT
+ETag: "17a-6005c76572799"
+Accept-Ranges: bytes
+Content-Length: 378
+Content-Type: text/html; charset=UTF-8
+
+
+
+GoDaddy.com, LLC
+IP: 208.109.43.83
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 19 Sep 2025 19:27:02 GMT
+Server: Apache
+X-Powered-By: PHP/8.1.33
+X-Redirect-By: WordPress
+Set-Cookie: pll_language=en; expires=Sat, 19-Sep-2026 19:27:02 GMT; Max-Age=31536000; path=/; secure; SameSite=Lax
+Upgrade: h2,h2c
+Connection: Upgrade
+Location: https://www.anniejomphe.ca/
+Vary: Accept-Encoding
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Rackspace Hosting
+IP: 166.78.87.47
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:58:20 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Fri, 24 Jan 2025 16:49:16 GMT
+ETag: "2e-62c7681de1d41"
+Accept-Ranges: bytes
+Content-Length: 46
+Content-Type: text/html; charset=utf-8
+
+
+
+Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+IP: 94.102.78.214
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 02:38:10 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Set-Cookie: PHPSESSID=rbp64ehfjchposb4fo16lc6h44; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 7
+Content-Type: text/html; charset=ISO-8859-9
+
+
+
+Telecentro S.A. - Clientes Residenciales
+IP: 186.19.200.160
+HTTP/1.1 401 Unauthorized
+Date: Tue, 23 Sep 2025 03:19:51 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'none'
+WWW-Authenticate: Basic realm="VisualSVN Server"
+Content-Length: 381
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Scaleway fr-par-1
+IP: 212.47.242.98
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:01:44 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Fri, 10 Dec 2021 08:49:02 GMT
+ETag: "2aa6-5d2c6cb7c4aa7"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Amazon Data Services UK
+IP: 35.179.254.170
+HTTP/1.1 302 Found
+Date: Thu, 11 Sep 2025 01:41:21 GMT
+Server: Apache
+Location: https://greciaqui.com/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon Technologies Inc.
+IP: 52.74.109.96
+HTTP/1.1 200 OK
+Date: Sun, 07 Sep 2025 16:18:50 GMT
+Content-Type: text/html
+Content-Length: 612
+Connection: keep-alive
+Server: nginx/1.18.0 (Ubuntu)
+Last-Modified: Tue, 27 Jun 2023 14:01:55 GMT
+ETag: "649aebd3-264"
+Accept-Ranges: bytes
+
+
+
+Universitaet fuer Bodenkultur Wien
+IP: 141.244.188.141
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 21:03:14 GMT
+Server: Apache
+Last-Modified: Mon, 07 Nov 2022 11:15:29 GMT
+ETag: "0-5ecdf8a7faf85"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+SAREnet, S.A.
+IP: 212.81.150.24
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 07:23:22 GMT
+Server: Apache
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=1
+Location: https://212.81.150.24/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Data Services Sweden
+IP: 16.170.28.179
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 05:08:29 GMT
+Server: Apache
+Vary: RSC,Next-Router-State-Tree,Next-Router-Prefetch,Next-Router-Segment-Prefetch,Accept-Encoding
+link: </_next/static/media/569ce4b8f30dc480-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/93f479601ee12b01-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2"
+X-Powered-By: Next.js
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+
+
+
+Fastmos Co Limited
+IP: 45.192.200.98
+HTTP/1.1 200 OK
+Date: Fri, 19 Sep 2025 15:46:15 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Set-Cookie: hasVisited178a=1; Max-Age=86400; Path=/
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Interconnexions France vpn ADISTA
+IP: 62.102.246.132
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 17:52:14 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Location: https://62.102.246.132:8443/
+Content-Length: 212
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Newfold Digital, Inc.
+IP: 69.6.213.167
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:01:38 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Fri, 12 Sep 2025 16:13:57 GMT
+Accept-Ranges: bytes
+Content-Length: 2361
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+INWAY , a.s. network
+IP: 212.24.128.188
+HTTP/1.1 403 Forbidden
+Date: Mon, 22 Sep 2025 11:57:25 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny2 with Suhosin-Patch
+Vary: Accept-Encoding
+Content-Length: 319
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+AWS Asia Pacific (Seoul) Region
+IP: 54.180.107.12
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 09:05:49 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Last-Modified: Mon, 21 Apr 2025 00:22:37 GMT
+ETag: "c897-6333edd7e9428"
+Accept-Ranges: bytes
+Content-Length: 51351
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+DIX Co., Ltd.
+IP: 153.122.150.126
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 06:58:06 GMT
+Server: Apache/2.0.64 (Unix)
+Last-Modified: Thu, 15 Sep 2011 06:45:39 GMT
+ETag: "6a6433-b57-3987aac0"
+Accept-Ranges: bytes
+Content-Length: 2903
+Content-Type: text/html
+
+
+
+ESSEMATICA SPA
+IP: 87.241.31.102
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 20 Sep 2025 16:32:44 GMT
+Server: Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/5.6.40
+Location: https://87.241.31.102/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+University of California, Davis
+IP: 169.237.253.43
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:11 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 24 Jan 2025 22:07:33 GMT
+ETag: "29af-62c7af41ebf0d"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center
+IP: 150.254.179.72
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=246FFCD3BC3420C1412BDDE4EDA14EF1; Path=/; HttpOnly
+Date: Thu, 25 Sep 2025 12:10:10 GMT
+Last-Modified: Thu, 25 Sep 2025 12:10:10 GMT
+Expires: Thu, 25 Sep 2025 12:10:10 GMT
+Content-Type: text/html;charset=utf-8
+Transfer-Encoding: chunked
+
+
+
+Mphasis Eldorado
+IP: 205.159.99.14
+HTTP/1.1 403 Forbidden
+Date: Wed, 24 Sep 2025 06:58:35 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Content-Length: 262
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Quasar Soluciones Tecnologicas, S.L.U.
+IP: 185.179.143.109
+HTTP/1.1 200 OK
+Date: Thu, 18 Sep 2025 03:06:56 GMT
+Server: Apache/2.4.38 (Debian)
+Last-Modified: Fri, 04 Jun 2021 08:54:13 GMT
+ETag: "1b8-5c3ecd5fe884e"
+Accept-Ranges: bytes
+Content-Length: 440
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Verizon Business
+IP: 166.165.144.61
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:09 GMT
+Server: Apache/2.4.62 (Unix) OpenSSL/3.0.15
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; frame-ancestors 'self'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.axis.com mediastream: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://*.axis.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://*.google-analytics.com https://*.googletagmanager.com https://*.axis.com data: blob:; media-src 'self' mediastream: blob:; object-src 'none'
+Upgrade: h2
+Connection: Upgrade
+Last-Modified: Tue, 05 Apr 2011 23:00:00 GMT
+Accept-Ranges: bytes
+Content-Length: 87
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html
+
+
+
+Unified Layer
+IP: 162.214.68.210
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 12:31:33 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: WHMCSEgsrcKAV1pY6=8267fbd8769ba3cd6afd0e99934592d5; path=/; secure; HttpOnly
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+University of Orebro
+IP: 130.243.98.184
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:01:44 GMT
+Server: Apache/2.2.22 (Debian)
+Vary: Accept-Encoding
+Content-Length: 530
+Content-Type: text/html;charset=UTF-8
+
+
+
+Gameforge 4D GmbH
+IP: 79.110.88.154
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:56:33 GMT
+Server: Apache
+Last-Modified: Fri, 18 Mar 2022 07:51:43 GMT
+ETag: "2aa6-5da796af0a617"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+
+
+University System of New Hampshire
+IP: 132.177.193.113
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:11:01 GMT
+Server: Apache/2.4.37 (Oracle Linux)
+Last-Modified: Mon, 22 May 2023 09:00:31 GMT
+ETag: "dd3-5fc4480b6e9c0"
+Accept-Ranges: bytes
+Content-Length: 3539
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon Data Services Japan
+IP: 57.181.68.77
+HTTP/1.1 200 OK
+Date: Sat, 13 Sep 2025 14:38:15 GMT
+Server: Apache
+Link: <https://57.181.68.77/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.67.179
+HTTP/1.0 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:01:19 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.27
+X-Powered-By: PHP/7.2.27
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Pragma: no-cache
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+Servers Australia Pty Ltd
+IP: 27.50.70.173
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:44:24 GMT
+Server: Apache
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Last-Modified: Fri, 25 Jul 2025 22:55:14 GMT
+ETag: "341-63ac8d5ca408f"
+Accept-Ranges: bytes
+Content-Length: 833
+Permissions-Policy: geolocation=(self), microphone=()
+Content-Type: text/html
+
+
+
+WWZ Telekom AG FTTH
+IP: 62.171.110.132
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Sep 2025 05:28:17 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: https://riedhalde.ch/
+Content-Length: 229
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+PEG TECH INC
+IP: 38.55.203.113
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 08:32:02 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Tue, 02 Sep 2025 10:11:49 GMT
+ETag: "267-63dceb75d1af7"
+Accept-Ranges: bytes
+Content-Length: 615
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+KSC Commercial Internet Co. Ltd.
+IP: 203.155.220.201
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 17:17:48 GMT
+Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/7.3.30
+X-Powered-By: PHP/7.3.30
+Location: https://203.155.220.201/rmrs/public/index
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Vultr Holdings, LLC
+IP: 45.76.221.157
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:46:29 GMT
+Server: Apache/2.4.62
+Last-Modified: Mon, 24 Apr 2017 17:12:25 GMT
+ETag: "9be-54decb612d0b0"
+Accept-Ranges: bytes
+Content-Length: 2494
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Kaopu Cloud HK Limited
+IP: 38.54.124.49
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Mon, 15 Sep 2025 01:55:04 GMT
+Refresh: 10;url=/
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=5D258DD63A642DF0F7E83A9BD12AC38D; Path=/
+Content-Length: 574
+Connection: keep-alive
+
+
+
+XSERVER Inc.
+IP: 162.43.18.8
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 12:28:22 GMT
+Server: Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k mod_fcgid/2.3.9
+Location: https://162.43.18.8/
+Content-Length: 228
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+A100 ROW GmbH
+IP: 3.124.111.41
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 23 Sep 2025 05:26:07 GMT
+Server: Apache
+X-Redirect-By: WordPress
+Location: https://maskal1.com/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon.com, Inc.
+IP: 54.215.100.214
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 08:29:00 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Location: https://system.icot.ie/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Scaleway
+IP: 51.159.140.63
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:44 GMT
+Server: Apache/2.4.65 (Debian)
+Last-Modified: Mon, 09 Dec 2024 10:54:22 GMT
+ETag: "29cd-628d42febc30f"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+InMotion Hosting, Inc.
+IP: 69.174.53.32
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:06 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+OVH SAS
+IP: 46.105.131.121
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:08:47 GMT
+Server: Apache
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+Content-Language: es
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: interest-cohort=()
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </presentacion>; rel="canonical",</node/19>; rel="shortlink"
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+Microsoft Corporation
+IP: 52.157.254.177
+HTTP/1.1 200 
+Date: Wed, 24 Sep 2025 20:16:21 GMT
+Server: Apache/2.4.57 (Win64) OpenSSL/3.1.2
+Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+Access-Control-Allow-Headers: Access-Control-Allow-Origin, Origin, Accept, X-Requested-With, Authorization, refreshauthorization, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Access-Control-Allow-Credentials
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: OPTIONS, GET, POST, PUT, DELETE
+Last-Modified: Fri, 06 Jun 2025 09:42:20 GMT
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Content-Length: 1401
+
+
+
+VI NA DATA INFORMATION TECHNOLOGY - SERVICE JOINT STOCK COMPANY
+IP: 61.28.230.138
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 02:13:26 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: https://61.28.230.138:443/
+Content-Length: 289
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.68.30
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:37:27 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Domain names registrar REG.RU, Ltd
+IP: 176.99.8.133
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 06:47:14 GMT
+Server: Apache/2.4.56 (Debian)
+Location: https://176.99.8.133/
+Content-Length: 307
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 52.43.243.69
+HTTP/1.1 403 Forbidden
+Date: Tue, 16 Sep 2025 22:27:11 GMT
+Content-Type: application/json
+Content-Length: 45
+Connection: keep-alive
+x-amzn-requestid: 2207a14e-185b-4018-827d-0b40cbafc40d
+access-control-allow-origin: *
+
+
+
+XSERVER Inc.
+IP: 162.43.44.103
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:10:05 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Orange Espagne SA
+IP: 85.62.96.92
+HTTP/1.1 200 OK
+Date: Fri, 19 Sep 2025 16:02:00 GMT
+Server: Apache
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+Last-Modified: Tue, 23 Apr 2024 16:13:57 GMT
+Accept-Ranges: bytes
+Content-Length: 287
+X-Frame-Options: sameorigin
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: HttpOnly;Secure;SameSite=Strict
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>CommScope ERA&reg;</title>
+</head>
+<body onload="document.myform.submit()">
+<form name="myform" method="get" action="/cgi-bin/startCommGui.cgi">
+</form>
+</body>
+</html>
+
+
+Linode, LLC
+IP: 178.79.177.194
+HTTP/1.1 403 Forbidden
+Date: Mon, 15 Sep 2025 15:50:22 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 279
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+OVH Hosting, Inc.
+IP: 51.161.76.142
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 17:19:16 GMT
+Server: Apache/2.4.6
+Content-Length: 481
+Content-Type: text/html;charset=ISO-8859-1
+
+
+
+WholeSale Internet, Inc.
+IP: 204.12.205.230
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 22:31:41 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Fastweb SpA
+IP: 93.62.144.62
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 07:18:16 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: max-age=0, must-revalidate, private
+Content-Security-Policy: default-src 'self' *.akeneo.com 'unsafe-inline'; script-src 'self' 'unsafe-eval' 'nonce-07f41c14e74157aff6fa6296dac0027c13e46705'; img-src 'self' data: *.akeneo.com; frame-src *; font-src 'self' data:; connect-src 'self' *.akeneo.com
+X-Content-Security-Policy: default-src 'self' *.akeneo.com 'unsafe-inline'; script-src 'self' 'unsafe-eval' 'nonce-07f41c14e74157aff6fa6296dac0027c13e46705'; img-src 'self' data: *.akeneo.com; frame-src *; font-src 'self' data:; connect-src 'self' *.akeneo.com
+X-WebKit-CSP: default-src 'self' *.akeneo.com 'unsafe-inline'; script-src 'self' 'unsafe-eval' 'nonce-07f41c14e74157aff6fa6296dac0027c13e46705'; img-src 'self' data: *.akeneo.com; frame-src *; font-src 'self' data:; connect-src 'self' *.akeneo.com
+Expires: Wed, 24 Sep 2025 07:18:16 GMT
+Set-Cookie: BAPID=b1kdc925k9aag4dgbtosfu6evr; path=/; httponly; samesite=lax
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Academie de Creteil
+IP: 195.98.246.110
+HTTP/1.0 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:10:05 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.45-0+deb7u2
+Vary: Accept-Encoding
+Content-Length: 1
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+
+
+SAKURA Internet Inc.
+IP: 153.126.185.184
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 02:25:17 GMT
+Server: Apache/2.2.15 (CentOS)
+Content-Length: 198
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Sinop University
+IP: 79.123.228.76
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:50:21 GMT
+Server: Apache/2.4.64 (Win64) OpenSSL/3.5.1 PHP/8.0.30
+X-Powered-By: PHP/8.0.30
+Set-Cookie: PHPSESSID=o02gi5vl6pdttt22a6i1n2baeb; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+IBM Cloud
+IP: 50.22.149.133
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:04 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Last-Modified: Thu, 08 Sep 2016 23:25:12 GMT
+ETag: "3a-53c0757618600"
+Accept-Ranges: bytes
+Content-Length: 58
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon Data Services NoVa
+IP: 98.82.11.225
+HTTP/1.1 200 OK
+Date: Fri, 19 Sep 2025 16:00:28 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Tue, 12 Nov 2024 09:04:15 GMT
+ETag: "167a-626b38065cd56"
+Accept-Ranges: bytes
+Content-Length: 5754
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Zweckverband
+IP: 194.76.66.193
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:10:02 GMT
+Server: Apache/2.4.65 (Debian)
+Strict-Transport-Security: max-age=15768000
+Location: https://vbsulingen.onlineprozesse.de/
+Content-Length: 324
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Vultr Holdings, LLC
+IP: 198.13.50.141
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 12:10:02 GMT
+Server: Apache/2.4.62 (CentOS Stream) SVN/1.14.1
+Last-Modified: Tue, 04 Jun 2024 22:57:12 GMT
+ETag: "296919-61a185ec88200"
+Accept-Ranges: bytes
+Content-Length: 2713881
+Content-Type: text/html; charset=UTF-8
+
+
+
+Karlsruhe Institute of Technology (KIT)
+IP: 141.3.128.207
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 16:39:15 GMT
+Server: Apache
+Location: https://141.3.128.207/
+Content-Length: 338
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Google LLC
+IP: 34.122.247.217
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 11:19:59 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Set-Cookie: ci_session=7q61sreqq2dgm7u5t83l9s60mbk9qtvh; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Kementerian Komunikasi dan Informasi Republik Indonesia
+IP: 202.89.117.154
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Sep 2025 08:51:48 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.4.16
+Access-Control-Allow-Origin: https://kominfo.go.id
+X-Frame-Options: SAMEORIGIN
+X-Pingback: http://rb.kominfo.go.id/xmlrpc.php
+Location: https://rb.kominfo.go.id/
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 157.7.157.201
+HTTP/1.1 404 Not Found
+Date: Tue, 23 Sep 2025 05:59:26 GMT
+Server: Apache
+Last-Modified: Tue, 07 Jan 2025 05:36:59 GMT
+Accept-Ranges: bytes
+Content-Length: 1091
+Content-Type: text/html
+
+
+
+ZCOM THAI
+IP: 163.44.197.88
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:02 GMT
+Server: Apache
+Last-Modified: Tue, 07 Aug 2018 10:23:03 GMT
+ETag: "13-572d5c771a67a"
+Accept-Ranges: bytes
+Content-Length: 19
+Content-Type: text/html; charset=UTF-8
+
+
+
+Gameforge 4D GmbH
+IP: 79.110.92.249
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:18:46 GMT
+Server: Apache
+Last-Modified: Tue, 18 Dec 2018 17:16:53 GMT
+ETag: "2c39-57d4f105aa4e1"
+Accept-Ranges: bytes
+Content-Length: 11321
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Glasfaser SWR GmbH
+IP: 85.209.60.123
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:04:54 GMT
+Server: Apache
+Location: https://patientenportal.gp-ruesselsheim.de:443/
+Content-Length: 255
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Open Computer Network
+IP: 60.43.219.169
+HTTP/1.1 200 OK
+Date: Thu, 18 Sep 2025 10:29:36 GMT
+Server: Apache
+Last-Modified: Wed, 10 Sep 2025 07:01:36 GMT
+ETag: "20bd5bdc-42e5-63e6cfdd9229a"
+Accept-Ranges: bytes
+Content-Length: 17125
+Content-Type: text/html
+
+
+
+netcup GmbH
+IP: 89.58.45.222
+HTTP/1.1 403 Forbidden
+Date: Tue, 23 Sep 2025 00:22:56 GMT
+Server: Apache
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Pustekkom
+IP: 118.98.166.181
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 17:32:44 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://formasi.gtk.kemendikdasmen.go.id/
+Content-Length: 329
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GoDaddy.com, LLC
+IP: 208.109.201.143
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 08:05:25 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Mon, 27 Jul 2015 22:37:27 GMT
+ETag: "e01d2f-7ab-51be2ff84b7c0"
+Accept-Ranges: bytes
+Content-Length: 1963
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Start LLC
+IP: 62.76.89.180
+HTTP/1.1 403 Forbidden
+Date: Sat, 20 Sep 2025 14:54:58 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 mod_python/3.5.0- Python/2.7.5
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>Apache HTTP Server Test Page powered by CentOS</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Bootstrap -->
+    <link href="/noindex/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="noindex/css/open-sans.css" type="text/css" />
+
+<style type="text/css"><!--		 
+
+body {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  font-weight: 100;
+  color: #ccc;
+  background: rgba(10, 24, 55, 1);
+  font-size: 16px;
+}
+
+h2, h3, h4 {
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  color: #333;
+  background: rgb(212,212,221); /* Old browsers */
+  background: radial-gradient(ellipse at center top, rgba(255,255,255,1) 0%,rgba(174,174,183,1) 100%); /* W3C */
+}
+
+.jumbotron h1 {
+  font-size: 128px;
+  font-weight: 700;
+  color: white;
+  text-shadow: 0px 2px 0px #abc,
+               0px 4px 10px rgba(0,0,0,0.15),
+               0px 5px 2px rgba(0,0,
+
+BisectHosting
+IP: 169.155.121.25
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 15:47:21 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Wed, 26 Mar 2025 14:04:01 GMT
+ETag: "29af-6313f4f3026bb"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2022-03-22
+    See: https://launchpad.net/bugs/1966004
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+  * {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+
+  body, html {
+    padding: 3px 3px 3px 3px;
+
+    background-color: #D8DBE2;
+
+    font-family: Ubuntu, Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+  }
+
+  div.main_page {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+
+    background-color: #FFFFFF;
+
+    text-align: center;
+  }
+
+  div.page_header {
+    height: 180px;
+    width: 100%;
+
+    background-color: #F5F6F7;
+  }
+
+  div.page_header span {
+    margin: 15px 0px 0px 50px;
+
+    font-size: 180%;
+    font-weight: bold;
+  }
+
+  div.page_header img {
+    margin: 3px 0px 0px 40px;
+
+    border: 0px 0px 0px;
+  }
+
+  div.banner {
+    padding: 9px 6px 9px 6px;
+    background-color: #E9510E;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 112%;
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    bottom: 30px;
+    width: 20%;
+  }
+
+  div.table_of_contents {
+    clear: left;
+
+    min-width: 200px;
+
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.table_of_contents_item {
+    clear: left;
+
+    width: 100%;
+
+    margin: 4px 0px 0px 0px;
+
+    background-color: #FFFFFF;
+
+    color: #000000;
+    text-align: left;
+  }
+
+  div.table_of_contents_item a {
+    margin: 6px 0px 0px 6px;
+  }
+
+  div.content_section {
+    margin: 3px 3px 3px 3px;
+
+    background-color: #FFFFFF;
+
+    text-align: left;
+  }
+
+  div.content_section_text {
+    padding: 4px 8px 4px 8px;
+
+    color: #000000;
+    font-size: 100%;
+  }
+
+  div.content_section_text pre {
+    margin: 8px 0px 8px 0px;
+    padding: 8px 8px 8px 8px;
+
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #000000;
+
+    background-color: #F5F6F7;
+
+    font-style: italic;
+  }
+
+  div.content_section_text p {
+    margin-bottom: 6px;
+  }
+
+  div.content_section_text ul, div.content_section_text li {
+    padding: 4px 8px 4px 16px;
+  }
+
+  div.section_header {
+    padding: 3px 6px 3px 6px;
+
+    background-color: #8E9CB2;
+
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 112%;
+    text-align: center;
+  }
+
+  div.section_header_grey {
+    background-color: #9F9386;
+  }
+
+  .floating_element {
+    position: relative;
+    float: left;
+  }
+
+  div.table_of_contents_item a,
+  div.content_section_text a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  div.table_of_contents_item a:link,
+  div.table_of_contents_item a:visited,
+  div.table_of_contents_item a:active {
+    color: #000000;
+  }
+
+  div.table_of_contents_item a:hover {
+    background-color: #000000;
+
+    color: #FFFFFF;
+  }
+
+  div.content_section_text a:link,
+  div.content_section_text a:visited,
+   div.content_section_text a:active {
+    background-color: #DCDFE6;
+
+    color: #000000;
+  }
+
+  div.content_section_text a:hover {
+    background-color: #000000;
+
+    color: #DCDFE6;
+  }
+
+  div.validator {
+  }
+    </style>
+  </head>
+  <body>
+    <div class="main_page">
+      <div class="page_header floating_element">
+        <img src="icons/ubuntu-logo.png" alt="Ubuntu Logo"
+             style="width:184px;height:146px;" class="floating_element" />
+        <div>
+          <span style="margin-top: 1.5em;" class="floating_element">
+            Apache2 Default Page
+          </span>
+        </div>
+        <div class="banner">
+          <div id="about"></div>
+          It works!
+        </div>
+
+      </div>
+      <div class="content_section floating_element">
+        <div class="content_section_text">
+          <p>
+                This is the default welcome page used to test the correct 
+                operation of the Apache2 server after installation on Ubuntu systems.
+                It is based on the equivalent page on Debian, from which the Ubuntu Apache
+                packaging is derived.
+                If you can read this page, it means that the Apache HTTP server installed at
+                this site is working properly. You should <b>replace this file</b> (located at
+                <tt>/var/www/html/index.html</tt>) before continuing to operate your HTTP server.
+          </p>
+
+          <p>
+                If you are a normal user of this web site and don't know what this page is
+                about,
+
+ANX Holding GmbH
+IP: 152.53.102.63
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 24 Sep 2025 08:36:50 GMT
+Server: Apache/2.4.62 (Debian)
+Location: https://www.152.53.102.63/
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+UNIVERSIDADE DE SAO PAULO
+IP: 143.107.233.90
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:09:58 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://gerente.set.eesc.usp.br/
+Content-Length: 320
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+None
+IP: 91.233.205.114
+HTTP/1.1 403 Forbidden
+Date: Sun, 14 Sep 2025 18:14:30 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=0
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Master Internet s.r.o.
+IP: 85.118.134.47
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:59 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16
+Last-Modified: Sun, 07 Aug 2016 00:39:21 GMT
+ETag: "1b-5397087cc8040"
+Accept-Ranges: bytes
+Content-Length: 27
+Content-Type: text/html; charset=UTF-8
+
+
+
+DigitalOcean, LLC
+IP: 178.128.10.239
+HTTP/1.1 200 OK
+Date: Wed, 17 Sep 2025 21:16:42 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Im9rUEpTdXVsSDVBQmF2UXRhU2hvOGc9PSIsInZhbHVlIjoiME1jXC9EVDdMVXNpUnlSMVV0dSsxQThJUk1YOWo1Vm1WZmdOUzlIOTA1eFwvWVwveWp0ODNTYkRvdjF4aExxYm9zeSIsIm1hYyI6IjAyMTgxMDllY2YzOGNiMTRiZTUzZTU2MTg0MmIxOTgzYjA4Y2YxYzQzMzU4MmZhZjQxNzRjMjUxNWVkMTk5MmIifQ%3D%3D; expires=Wed, 17-Sep-2025 23:16:42 GMT; Max-Age=7200; path=/
+Set-Cookie: cbtis_no_224_session=eyJpdiI6IkZBd2g5MyszNCtUc21Yb1ZUc2Y0OHc9PSIsInZhbHVlIjoiK2JcL1VDYlJqUmRIUDJnbFFOMlBlcjhSeUFRWTFWZUtnRTRkMkFsOXM3NnB4ODFOb2hPYmI1c0VJaEdycCtcL016IiwibWFjIjoiMzU0ZTk3ZGI0Njg3YjViYzk2MjQwNjNiNGRkOGJlZTYzN2RjZGFmMWI2YTI0YmFkM2RjNzZhNzFjOWMwZDk3ZiJ9; expires=Wed, 17-Sep-2025 23:16:42 GMT; Max-Age=7200; path=/; httponly
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+GMO Internet Group, Inc.
+IP: 157.7.157.54
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 16:39:50 GMT
+Server: Apache
+Last-Modified: Tue, 07 Jan 2025 05:36:59 GMT
+Accept-Ranges: bytes
+Content-Length: 1091
+Content-Type: text/html
+
+
+
+UNIVERSIDADE ESTADUAL PAULISTA
+IP: 200.145.6.201
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 07:17:14 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Location: https://200.145.6.201/index.html
+Content-Length: 295
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Data Services NoVa
+IP: 54.243.238.86
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 02:48:17 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Thu, 26 Sep 2024 13:14:36 GMT
+ETag: "18d-6230585270700"
+Accept-Ranges: bytes
+Content-Length: 397
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Liquid Web, L.L.C
+IP: 67.227.152.113
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 19:18:43 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.74.224
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:54:10 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+NETWORK TRANSIT HOLDINGS LLC
+IP: 205.251.156.36
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:34 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+GoDaddy.com, LLC
+IP: 72.167.66.125
+HTTP/1.1 200 OK
+Date: Mon, 08 Sep 2025 16:03:17 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 23 Jan 2024 09:34:12 GMT
+ETag: "2181364-7ab-60f99a6232d00"
+Accept-Ranges: bytes
+Content-Length: 1963
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+LiWiNeA GmbH
+IP: 84.39.102.181
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 02:25:37 GMT
+Server: Apache
+Last-Modified: Fri, 09 Mar 2012 12:21:14 GMT
+ETag: "3a03fc-2476-4bace6dbd6280"
+Accept-Ranges: bytes
+Content-Length: 9334
+X-Powered-By: PleskLin
+Content-Type: text/html
+
+
+
+Baldwin Telecom Inc
+IP: 64.33.167.206
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 07:45:17 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE, HEAD
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Origin,Content-Type,Accept,Authorization,x-innovative-deviceid,X-Innovative-Deviceid,Operation
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Yasuhiko Higaki
+IP: 203.153.70.27
+HTTP/1.1 200 OK
+Date: Wed, 17 Sep 2025 19:51:53 GMT
+Server: Apache/2.4.64 (FreeBSD) OpenSSL/1.1.1w-freebsd
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+Eurofiber France SAS
+IP: 185.75.143.190
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:43 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Last-Modified: Thu, 20 Oct 2016 11:52:40 GMT
+ETag: "1d-53f4a900fd0ac"
+Accept-Ranges: bytes
+Content-Length: 29
+Content-Type: text/html
+
+
+
+SEO Hosting LTD
+IP: 38.62.238.107
+HTTP/1.1 302 Found
+Date: Wed, 27 Aug 2025 21:33:31 GMT
+Server: Apache
+Location: https://www.iq-servers.com/defaultwebpage/
+Content-Length: 226
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 3.33.152.248
+HTTP/1.1 421 Misdirected Request
+Date: Wed, 24 Sep 2025 20:02:52 GMT
+Server: Apache
+Content-Length: 322
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.69.105
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:15:07 GMT
+Server: Apache/2.2.31
+X-Powered-By: PHP/5.5.27
+Link: <https://www.valvex-co.jp/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=315360000;
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Sontheimer IT GmbH
+IP: 62.68.19.123
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 09:55:31 GMT
+Server: Apache
+Cache-control: no-store
+Stauts: 302 Moved temporarily
+Location: https://62.68.19.123:5001
+Vary: Accept-Encoding
+Content-Length: 209
+Content-Type: text/html; charset=iso-8859-1
+X-Pad: avoid browser bug
+
+
+
+Odnoklassniki Services
+IP: 185.226.52.88
+HTTP/1.1 403 Forbidden
+Server: Apache
+Date: Thu, 25 Sep 2025 06:53:23 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 549
+Connection: keep-alive
+
+
+
+dogado GmbH
+IP: 185.137.171.152
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 07:00:35 GMT
+Server: Apache
+X-Powered-By: PHP/8.1.14
+Upgrade: h2,h2c
+Connection: Upgrade
+X-UA-Compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Aruba S.p.A. - Shared Hosting and Mail services
+IP: 62.149.148.214
+HTTP/1.1 403 Forbidden
+Date: Tue, 23 Sep 2025 05:31:05 GMT
+Server: Apache
+X-Server: (null)
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Open Computer Network
+IP: 210.190.171.112
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Sep 2025 09:05:32 GMT
+Server: Apache
+Location: https://kowayouchien.ed.jp/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Vultr Holdings, LLC
+IP: 149.28.18.72
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 09:39:20 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Set-Cookie: PHPSESSID=limb7ge1e4ub3ubl6a9so92ti0; path=/
+Expires: 0
+Cache-Control: pre-check=0, post-check=0, max-age=0
+Pragma: no-cache
+Last-Modified: Mon, 22 Sep 2025 09:39:20
+p3p: CP="CAO DSP AND SO ON" policyref="/w3c/p3p.xml"
+Vary: Accept-Encoding
+Content-Length: 78
+Content-Type: text/html; charset=UTF-8
+
+
+
+Strong Technology, LLC.
+IP: 207.204.242.198
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 16:43:20 GMT
+Server: Apache
+Last-Modified: Thu, 26 Sep 2024 18:24:27 GMT
+ETag: "1400-62309d9432cc0"
+Accept-Ranges: bytes
+Content-Length: 5120
+Content-Security-Policy: default-src 'self';
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+
+
+
+Hetzner Online GmbH
+IP: 142.132.202.166
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 12:22:55 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Wed, 02 Jul 2025 16:46:14 GMT
+ETag: "29af-638f4ffc2fa5a"
+Accept-Ranges: bytes
+Content-Length: 10671
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+NRRU
+IP: 49.231.27.185
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:02:52 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Location: https://49.231.27.185/
+Cache-Control: max-age=0
+Expires: Thu, 25 Sep 2025 12:02:52 GMT
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+INSTA-DEFSEC
+IP: 212.246.227.7
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:54 GMT
+Server: Apache
+Last-Modified: Tue, 22 Dec 2020 09:12:18 GMT
+Accept-Ranges: bytes
+Content-Length: 1559
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: f5_cspm=1234;;
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.73.241
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 11:59:56 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+SoftLayer Technologies, Inc.
+IP: 159.8.93.66
+HTTP/1.1 403 Forbidden
+Date: Tue, 23 Sep 2025 05:20:52 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: same-origin
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Length: 199
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.28.103.81
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 09:31:51 GMT
+Server: Apache
+Link: <http://202.28.103.81/wp-json/>; rel="https://api.w.org/", <http://202.28.103.81/wp-json/wp/v2/pages/1574>; rel="alternate"; title="JSON"; type="application/json", <http://202.28.103.81/>; rel=shortlink
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Index Exchange Inc.
+IP: 209.204.231.89
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 11:45:37 GMT
+Server: Apache
+Last-Modified: Tue, 12 Apr 2022 14:22:44 GMT
+ETag: "0"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Dattatec Corp
+IP: 66.97.35.103
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 06:57:50 GMT
+Server: Apache
+Last-Modified: Wed, 15 Aug 2018 12:41:16 GMT
+ETag: "4b3-57378a475b300"
+Accept-Ranges: bytes
+Content-Length: 1203
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+The Children's Hospital of Philadelphia
+IP: 159.14.197.57
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 16:47:33 GMT
+Server: Apache
+X-XSS-Protection: 1;  mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubdomains;
+Location: https://159.14.197.57/
+Content-Length: 206
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 34.202.193.119
+HTTP/1.1 200 OK
+Date: Mon, 08 Sep 2025 08:23:16 GMT
+Server: Apache/2.4.46 (Ubuntu)
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Link: <https://www.gcefcu.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.gcefcu.org/wp-json/wp/v2/pages/5915>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.gcefcu.org/>; rel=shortlink
+Server-Timing: wp-before-template;dur=157.98
+Vary: Accept-Encoding,User-Agent
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Eurofiber Cloud Infra B.V.
+IP: 37.247.35.143
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:10:12 GMT
+Server: Apache/2
+Last-Modified: Wed, 12 Mar 2014 16:51:29 GMT
+ETag: "cd-4f46ba5e88640"
+Accept-Ranges: bytes
+Content-Length: 205
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+
+
+VOICE BUSINESS Gesellschaftf. natürlichspr. IT Lösung mbH
+IP: 62.99.149.100
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:31 GMT
+Server: Apache
+Last-Modified: Fri, 19 Apr 2013 14:36:13 GMT
+ETag: "128002-4f-4dab7a40c9140"
+Accept-Ranges: bytes
+Content-Length: 79
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Vultr Holdings, LLC
+IP: 45.77.253.222
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 15:24:22 GMT
+Server: Apache/2.4.34 (Unix) OpenSSL/1.0.1e-fips
+Last-Modified: Tue, 19 Jan 2021 21:35:13 GMT
+ETag: "13b8-5b9479d188640"
+Accept-Ranges: bytes
+Content-Length: 5048
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html><head>
+		<title>HTTP Server Test Page powered by CentOS-WebPanel.com</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<style type="text/css">
+			body {
+				background-color: #eceff1;
+				color: #000;
+				font-size: 0.9em;
+				font-family: sans-serif,helvetica;
+				margin: 0;
+				padding: 0;
+			}
+			:link {
+				color: #0000FF;
+				text-decoration:none;
+			}
+			:visited {
+				color: #0000FF;
+			}
+			a:hover {
+				color: #0000FF;
+			}
+			h1 {
+				text-align: center;
+				margin: 0;
+				padding: 0.6em 2em 0.4em;
+				background-color: #2D4760;
+				color: #ffffff;
+				font-weight: normal;
+				font-size: 1.75em;
+				border-bottom: 2px solid #000;
+			}
+			h1 strong {
+				font-weight: bold;
+			}
+			h2 {
+				font-size: 1.1em;
+				font-weight: bold;
+			}
+			.content {
+				padding: 1em 5em;
+			}
+			.content-columns {
+				/* Setting relative positioning allows for 
+				absolute positioning for sub-classes */
+				position: relative;
+				padding-top: 1em;
+			}
+			.content-column-left {
+				/* Value for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-right: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-column-right {
+				/* Values for IE/Win; will be overwritten for other browsers */
+				width: 47%;
+				padding-left: 3%;
+				float: left;
+				padding-bottom: 2em;
+			}
+			.content-columns>.content-column-left, .content-columns>.content-column-right {
+				/* Non-IE/Win */
+			}
+			img {
+				border: 2px solid #fff;
+				padding: 2px;
+				margin: 2px;
+			}
+			a:hover img {
+				border: 2px solid #3399FF;
+			}
+		</style>
+	</head>
+
+	<body>
+	</a><h1>HTTP Test Page<br><font size="-1"><strong>powered by</strong></font><strong> CWP | CentOS-WebPanel.com</strong></h1>
+		<div class="content">
+		<center><a href="https://control-webpanel.com/"><img src="http://static.cdn-cwp.com/files/images/cwp_logo.png"></a></center>
+			<hr></hr>
+			<div class="content-middle">
+				<center><p>This page is used to test the proper operation of the HTTP
+ server after it has been installed. If you can read this page it means 
+that the HTTP server installed at this site is working properly.</p></center>
+			</div>
+<hr>
+			<div class="content-columns">
+				<div class="content-column-left">
+					<center><h2>If you are a member of the general public:</h2></center>
+
+					<p>The fact that you are seeing this page indicates that the 
+website you just visited is either experiencing problems or is 
+undergoing routine maintenance.</p>
+
+					<p>If you would like to let the administrators of this website know
+ that you've seen this page instead of the page you expected, you should
+ send them e-mail. In general, mail sent to the name "webmaster" and 
+directed to the website's domain should reach the appropriate person.</p>
+
+					<p>For example, if you experienced problems while visiting www.example.com, you should send e-mail to "webmaster@example.com".</p>
+				</div>
+
+				<div class="content-column-right">
+					<center><h2>If you are the website administrator:</h2></center>
+
+					<p>You may now add content to the directory <tt>/home/USERNAME/public_html</tt>.
+ Note that until you do so, people visiting your website will see this 
+page and not your content. To prevent this page from ever being used, 
+delete index.html in <tt>/public_html</tt>.</p>
+
+						<p>You are free to use the images below on Linux powered HTTP servers.  Thanks for using CentOS-WebPanel!</p>
+
+						<p><a href="https://control-webpanel.com/"><img src="http://static.cdn-cwp.com/files/images/cwp_logo.png" width="20%" ></a> </p>
+				</div>
+			</div>
+                </div>
+                <div class="content">
+                        <center><div class="content-middle"><h2>About CentOS-WebPanel:</h2><b>The CentOS-WebPanel - </b>
+a Free Web Hosting control panel designed for quick and easy management of (Dedicated & VPS) servers minus the chore and effort to use ssh console for every time you want to do something, offers a huge number of options and features for server management in its control panel package.<p></p>
+<b><p>For information on CentOS-WebPanel please visit the <a href="https://control-webpanel.com/">CentOS-WebPanel.com</a>.</p></center></b>
+<hr>
+<center><p><br></p><h2>Note:</h2><p>CentOS-WebPanel is Software and it is used to 
+power this website; however, the webserver is owned by the domain owner 
+and not the CentOS-WebPanel.</p>  <b>If you have issues with the content of this site, contact the owner of the domain, not the CentOS-WebPanel.</b>
+
+<p>For example, if this website is www.example.com, you would find the 
+owner of the example.com domain at the following W
+
+Hochschule Bochum
+IP: 193.175.84.237
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 04:01:50 GMT
+Server: Apache
+X-UA-Compatible: IE=edge
+X-Content-Type-Options: nosniff
+Content-Length: 4460
+Content-Type: text/html; charset=utf-8
+
+
+
+dataforest GmbH
+IP: 2.59.132.110
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 05:51:22 GMT
+Server: Apache/2.4.62 (AlmaLinux)
+Last-Modified: Tue, 10 Jun 2025 09:34:17 GMT
+ETag: "1423-6373466747840"
+Accept-Ranges: bytes
+Content-Length: 5155
+Content-Type: text/html; charset=UTF-8
+
+
+
+Contabo Inc.
+IP: 66.94.99.138
+HTTP/1.1 200 OK
+Date: Wed, 17 Sep 2025 21:28:17 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=dmmqlv8bctnmn9m6aeibunjrpo; path=/
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+NFrance Conseil
+IP: 80.247.226.142
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:10:44 GMT
+Server: Apache
+Last-Modified: Sat, 20 Nov 2004 20:16:24 GMT
+ETag: "23a8e-2c-3e9564c23b600"
+Accept-Ranges: bytes
+Content-Length: 44
+Content-Type: text/html
+
+
+
+2086 Ramkhamhaeng Rd.,Huamark, Bangkapi,Bangkok
+IP: 202.41.160.193
+HTTP/1.1 200 
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 24 Sep 2025 06:57:12 GMT
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.29.20.41
+HTTP/1.1 403 Forbidden
+Date: Thu, 25 Sep 2025 11:53:28 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.29
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+
+
+University of Utah
+IP: 155.98.111.13
+HTTP/1.1 200 OK
+Date: Sat, 20 Sep 2025 15:33:06 GMT
+Server: Apache
+Last-Modified: Fri, 26 Apr 2013 16:50:06 GMT
+Accept-Ranges: bytes
+Content-Length: 2124
+Content-Type: text/html; charset=UTF-8
+
+
+
+Pusat Litbang Perumahan dan Permukiman Badan Penelitian dan Pengembangan
+IP: 103.134.213.9
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 14:38:34 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%223860970c36d2cafa772bf67d705960ec%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22172.16.20.128%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A100%3A%22Mozilla%2F5.0+%28Windows+NT+6.1%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F41.0.2228.0+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1758551914%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D6fde657282ecca650311add4cb43809bbf3adf65; expires=Mon, 22-Sep-2025 22:38:34 GMT; path=/
+Content-Length: 7993
+Content-Type: text/html; charset=UTF-8
+
+
+
+Idigital Internet Inc.
+IP: 104.193.174.253
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=52DB0B12D9F849C04577089473E476C0; Path=/; HttpOnly
+Pragma: no-cache
+Cache-Control: no-cache
+Cache-Control: no-store
+Expires: -1
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 10608
+Date: Wed, 24 Sep 2025 08:21:15 GMT
+
+
+
+FEDERAL ONLINE GROUP LLC
+IP: 23.231.176.93
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 16:44:43 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Internet Utilities Europe and Asia Limited
+IP: 140.150.216.102
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 20 Sep 2025 15:25:12 GMT
+Server: Apache
+Location: https://www.sensaphone.net/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Scaleway Dedibox - Paris, France
+IP: 163.172.158.145
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 10:47:11 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Last-Modified: Sun, 10 Jul 2016 12:25:16 GMT
+ETag: "0-5374720d67d8f"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+Office of Info.Tech. Admin. for Educational Development
+IP: 202.29.149.245
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:09:48 GMT
+Server: Apache
+Location: https://202.29.149.245/
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+OVH Singapore PTE. LTD
+IP: 51.79.230.114
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 08:19:20 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Mon, 31 Mar 2025 17:04:49 GMT
+ETag: "2ab6-631a66b028c58"
+Accept-Ranges: bytes
+Content-Length: 10934
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Amazon Data Services NoVa
+IP: 3.239.100.232
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 22 Sep 2025 19:28:58 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://beta.cfma.org/
+Content-Length: 309
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon Technologies Inc.
+IP: 15.197.183.80
+HTTP/1.1 500 Internal Server Error
+Date: Wed, 24 Sep 2025 10:07:43 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/8.2.4
+X-Powered-By: PHP/8.2.4
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Length: 2431
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+Indiana University
+IP: 156.56.83.47
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 09:22:30 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Location: https://swinburne.luddy.indiana.edu/
+Content-Length: 298
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 136.243.1.163
+HTTP/1.1 302 Found
+Date: Tue, 16 Sep 2025 21:55:55 GMT
+Server: Apache/2.4.10 (Debian)
+Location: https://mailstudio.gr/admin/index.php
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+Amazon Technologies Inc.
+IP: 54.148.160.142
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 21:40:33 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.7
+Link: <http://54.148.160.142/wp-json/>; rel="https://api.w.org/", <http://54.148.160.142/wp-json/wp/v2/pages/5>; rel="alternate"; type="application/json", <http://54.148.160.142/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+X-Mod-Pagespeed: 1.13.35.2-0
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 975221
+Content-Type: text/html; charset=utf-8
+
+
+
+GMO Internet Group, Inc.
+IP: 133.130.78.27
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 07:15:52 GMT
+Server: Apache/2.2.31
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+TELEFÔNICA BRASIL S.A
+IP: 187.35.88.183
+HTTP/1.1 200 OK
+Date: Fri, 19 Sep 2025 21:24:10 GMT
+Server: Apache/2.4.62 (Debian)
+Last-Modified: Tue, 10 May 2022 11:46:48 GMT
+ETag: "29cd-5dea6e1392092"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Index Exchange Inc.
+IP: 85.91.45.65
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:47 GMT
+Server: Apache
+Last-Modified: Tue, 14 Sep 2021 19:11:33 GMT
+ETag: "0"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+
+
+University of Massachusetts - AMHERST
+IP: 128.119.240.10
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 12:15:10 GMT
+Server: Apache/2.4.62 (AlmaLinux) OpenSSL/3.2.2
+X-Powered-By: PHP/8.3.19
+Link: <https://groups.cs.umass.edu/wp-json/>; rel="https://api.w.org/"
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Linode
+IP: 72.14.185.50
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:09:58 GMT
+Server: Apache/2.4.34 (Fedora) OpenSSL/1.1.0h-fips
+Location: https://72.14.185.50/
+Content-Length: 229
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+dogado GmbH
+IP: 89.22.119.89
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 17:51:51 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.22
+Pragma: no-cache
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Expires: Tue, 24 Sep 2024 17:51:51 GMT
+X-Magento-Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+X-Magento-Cache-Debug: MISS
+Content-Security-Policy-Report-Only: font-src data: fonts.googleapis.com fonts.gstatic.com data: 'self' 'unsafe-inline'; form-action secure.authorize.net test.authorize.net geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com pilot-payflowlink.paypal.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de 'self' 'unsafe-inline'; frame-ancestors 'self' 'unsafe-inline'; frame-src fast.amc.demdex.net *.adobe.com secure.authorize.net test.authorize.net geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com *.youtube.com https://www.google.com/recaptcha/ *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de *.dotdigital-pages.com *.dotdigital.com cdn.dnky.co webchat.dotdigital.com c.paypal.com checkout.paypal.com assets.braintreegateway.com pay.google.com *.cardinalcommerce.com api.createx-editor.com *.facebook.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com i.ytimg.com d3sbl0c71oxeok.cloudfront.net dhkkzdfmpzvap.cloudfront.net d2bpzs5y44q6e0.cloudfront.net d37shgu97oizpd.cloudfront.net d1zlqll3enr74n.cloudfront.net d1jynp0fpwn93a.cloudfront.net d2cb3tokgpwh3v.cloudfront.net d1re8bfxx3pw6e.cloudfront.net d35u8xwkxs8vpe.cloudfront.net d13s9xffygp5o.cloudfront.net d388nbw0dwi1jm.cloudfront.net d11p2vtu3dppaw.cloudfront.net d3r89hiip86hka.cloudfront.net dc7snq0c8ipyk.cloudfront.net d5c7kvljggzso.cloudfront.net d2h8yg3ypfzua1.cloudfront.net d1b556x7apj5fb.cloudfront.net draz1ib3z71v2.cloudfront.net dr6hdp4s5yzfc.cloudfront.net d2bomicxw8p7ii.cloudfront.net d3aypcdgvjnnam.cloudfront.net d2a3iuf10348gy.cloudfront.net *.ssl-images-amazon.com *.ssl-images-amazon.co.uk *.ssl-images-amazon.co.jp *.ssl-images-amazon.jp *.ssl-images-amazon.it *.ssl-images-amazon.fr *.ssl-images-amazon.es *.ssl-images-amazon.de *.media-amazon.com *.media-amazon.co.uk *.media-amazon.co.jp *.media-amazon.jp *.media-amazon.it *.media-amazon.fr *.media-amazon.es *.media-amazon.de www.sandbox.paypal.com b.stats.paypal.com dub.stats.paypal.com assets.braintreegateway.com c.paypal.com checkout.paypal.com api.createx-editor.com work.cloudlab.at:9012 localhost:8080 data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com secure.authorize.net test.authorize.net www.googleadservices.com www.google-analytics.com www.paypalobjects.com js.braintreegateway.com www.paypal.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.sandbox.paypal.com t.paypal.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ *.payments-amazon.com *.payments-amazon.co.uk *.payments-amazon.co.jp *.payments-amazon.jp *.payments-amazon.it *.payments-amazon.fr *.payments-amazon.es *.payments-amazon.de *.trackedlink.net *.trackedweb.net *.dotdigital-pages.com cdn.dnky.co webchat.dotdigital.com assets.braintreegateway.com c.paypal.com pay.google.com api.braintreegateway.com api.sandbox.braintreegateway.com client-analytics.braintreegateway.com client-analytics.sandbox.braintreegateway.com api.createx-editor.com work.cloudlab.at:9012 localhost:8080 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com cdn.dnky.co webchat.dotdigital.com unsafe-inline fonts.googleapis.com fonts.gstatic.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com api.createx-editor.com work.cloudlab.at:9012 localhost:8080 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net www.google-analytics.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.sandbox.paypal.com www.paypalobjects.com www.paypal.com *.amazon.com *.amazon.co.uk *.amazon.co.jp *.amazon.jp *.amazon.it *.amazon.fr *.amazon.es *.amazon.de *.amazonpay.com *.amazonpay.co.uk *.amazonpay.co.jp *.amazonpay.jp *.amazonpay.it *.amazonpay.fr *.amazonpay.es *.amazonpay.de mws.amazonservices.com mws.amazonservices.co.uk mws.amazonservices.co.jp mws.amazonservices.jp mws.amazonservices.it mws.amazonservices.fr mws.amazonservices.es mws.amazonservices.de *.trackedlink.net *.trackedweb.net *.dotdigital-pages.com webchat.dotdigital.com api.braintreegateway.com api.sandbox.braintreegateway.com client-analytics.braintreegateway.com client-analytics.sandbox.braintreegateway.com *.braintree-api.com api.createx-editor.com work.cloudlab.at:9012 localhost:8080 'self' 'unsafe-inline'; child-src assets.braintreegateway.com c.paypal.com http: https: blob: 'self' 'unsafe-inline'; default-src 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: PHPSESSID=r07s7rp7gv7daueftnrcam2mc6; expires=Wed, 24-Sep-2025 18:51:51 GMT; Max-Age=3600; path=/; domain=89.22.119.89; HttpOnly; SameSite=Lax
+Upgrade: h2,h2c
+Connection: Upgrade
+Location: https://citydruck-v6-k298d.your-printq.com/
+X-UA-Compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+
+
+DigitalOcean, LLC
+IP: 159.89.32.108
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 11:48:39 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 28 Feb 2022 15:57:45 GMT
+ETag: "2aa6-5d9161bf5bc30"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Hetzner Online AG
+IP: 213.133.104.65
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 07:18:43 GMT
+Server: Apache
+X-Robots-Tag: noindex, nofollow, noarchive
+Upgrade: h2c
+Connection: Upgrade
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Instituto Espanol de Oceanografia
+IP: 193.146.153.34
+HTTP/1.1 200 OK
+Date: Sat, 20 Sep 2025 15:29:13 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Last-Modified: Tue, 29 Jul 2025 07:10:17 GMT
+ETag: "8b29-63b0c19b27c92"
+Accept-Ranges: bytes
+Content-Length: 35625
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+EJIE, S.A.
+IP: 77.228.143.105
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 12:09:21 GMT
+Server: Apache/2.2.3 (Red Hat)
+X-Powered-By: PHP/5.5.38
+Set-Cookie: metaposta=p6t3g6odh4sdpvgm8b3jo96814; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: cookie_rgpd=1; expires=Sun, 23-Sep-2035 12:09:22 GMT; Max-Age=315360000; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+
+LeaseWeb Netherlands B.V.
+IP: 5.79.100.249
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 19:29:33 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.33
+Last-Modified: Mon, 27 Apr 2015 20:13:28 GMT
+ETag: "16e-514ba6108ea00"
+Accept-Ranges: bytes
+Content-Length: 366
+Content-Type: text/html; charset=UTF-8
+
+
+
+ANS ACADEMY LIMITED
+IP: 37.220.93.225
+HTTP/1.1 200 OK
+Date: Thu, 25 Sep 2025 04:02:21 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+
+
+Mittwald CM Service GmbH und Co. KG
+IP: 185.243.132.65
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 08:17:17 GMT
+Server: Apache
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+
+
+
+Universo Online S.A.
+IP: 200.147.15.155
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Sep 2025 02:00:08 GMT
+Server: Apache
+Content-Length: 198
+Content-Type: text/html; charset=iso-8859-1
+Age: 0
+X-Cache: MISS
+Connection: close
+
+
+
+HostGator.com LLC
+IP: 192.185.17.114
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 16:38:26 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Sun, 19 Jun 2022 19:43:36 GMT
+Accept-Ranges: bytes
+Content-Length: 746
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+
+
+BRETAGNE TELECOM SASU
+IP: 193.28.233.202
+HTTP/1.1 200 OK
+Date: Wed, 24 Sep 2025 15:22:42 GMT
+Server: Apache/2.4.25 (Debian)
+Last-Modified: Wed, 21 Nov 2018 09:54:15 GMT
+ETag: "29cd-57b29bb9d1325"
+Accept-Ranges: bytes
+Content-Length: 10701
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+Amazon Data Services Canada
+IP: 16.52.123.247
+HTTP/1.1 400 Bad Request
+Server: awselb/2.0
+Date: Fri, 05 Sep 2025 19:05:33 GMT
+Content-Type: text/html
+Content-Length: 622
+Connection: close
+
+
+
+HA Servers, LLC
+IP: 64.251.10.218
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 05:44:11 GMT
+Server: Apache
+Location: https://64.251.10.218/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Cornell University
+IP: 128.253.49.54
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 25 Sep 2025 12:01:26 GMT
+Server: Apache
+Location: https://128.253.49.54/
+Content-Length: 230
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+University of California, Davis
+IP: 169.237.99.71
+HTTP/1.1 302 Found
+Date: Thu, 25 Sep 2025 01:48:14 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Location: https://placement.math.ucdavis.edu/
+Content-Length: 297
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+XSERVER Inc.
+IP: 162.43.42.25
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 08:40:37 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+NTT Communications Corporation
+IP: 218.224.250.27
+HTTP/1.1 403 Forbidden
+Date: Tue, 23 Sep 2025 05:30:40 GMT
+Server: Apache
+Content-Length: 321
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Amazon.com, Inc.
+IP: 54.203.57.26
+HTTP/1.1 200 OK
+Date: Tue, 23 Sep 2025 18:03:17 GMT
+Server: Apache
+Link: <https://54.203.57.26/wp-json/>; rel="https://api.w.org/", <https://54.203.57.26/wp-json/wp/v2/pages/29>; rel="alternate"; title="JSON"; type="application/json", <https://54.203.57.26/>; rel=shortlink
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+XSERVER Inc.
+IP: 162.43.50.95
+HTTP/1.1 500 Internal Server Error
+Date: Thu, 25 Sep 2025 12:09:42 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+Open Computer Network
+IP: 210.190.169.130
+HTTP/1.1 200 OK
+Date: Mon, 22 Sep 2025 08:37:09 GMT
+Server: Apache
+Last-Modified: Thu, 07 Jan 2010 08:29:43 GMT
+ETag: "630c3e9e-74e-47c8edf748bc0"
+Accept-Ranges: bytes
+Content-Length: 1870
+Content-Type: text/html
+
+
+
+DigitalOcean, LLC
+IP: 157.230.184.130
+HTTP/1.1 200 OK
+Date: Sat, 20 Sep 2025 03:23:26 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Set-Cookie: PHPSESSID=abv1dcqpfsrrq0h74hf9bs8ca4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: project1_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22f634e6fccf4778adccd56106355c6792%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22224.103.24.193%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A100%3A%22Mozilla%2F5.0%20%28Windows%20NT%206.1%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F41.0.2228.0%20Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1758338606%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Df6041211416b152f8eba7473a232fb93; expires=Sat, 27-Sep-2025 03:23:26 GMT; Max-Age=604800; path=/
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+
+
+The Goldman Sachs Group, Inc.
+IP: 199.99.2.197
+HTTP/1.1 404 Not Found
+Date: Thu, 25 Sep 2025 12:09:42 GMT
+Server: Apache
+Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; style-src-elem 'self';
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 196
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+Hetzner Online GmbH
+IP: 23.88.80.21
+HTTP/1.1 302 Found
+Date: Wed, 24 Sep 2025 21:53:51 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; connect-src 'self' wss:; script-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; font-src 'self' data:; child-src 'self'; object-src 'none';
+X-Content-Type-Options: nosniff
+Location: https://23.88.80.21:443/restgui/start.html
+Content-Length: 226
+Content-Type: text/html; charset=iso-8859-1
+
+
