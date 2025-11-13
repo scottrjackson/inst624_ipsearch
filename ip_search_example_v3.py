@@ -2,6 +2,7 @@
 # this version is an example of "version 0.3" of the class project assignment
 
 import os
+import search_helpers
 
 output_file = "count_results.txt"
 
@@ -14,36 +15,8 @@ print(os.listdir())
 # - what file/directory to search inside
 # - what string to search/count
 # - whether the search/count should be case sensitive
-valid_files_found = False
-while not valid_files_found:
-    thing_to_search = input("Provide a path to a file or directory that you want searched:\n")
-    if not os.path.exists(thing_to_search):
-        print("That does not appear to be a valid path, please try again.")
-    elif os.path.isfile(thing_to_search):
-        valid_files_found = True
-        # make a singleton list, so that follow-on code can always expect a list
-        files_to_search = [thing_to_search]
-        folder_path = os.getcwd()
-    elif os.path.isdir(thing_to_search):
-        files_to_search = []
-        for thing in os.listdir(thing_to_search):
-            if os.path.isfile(thing):
-                files_to_search.append(thing)
-        if len(files_to_search) > 0:
-            valid_files_found= True
-            folder_path = thing_to_search
-        else:
-           print("There do not appear to be any files in the specified directory, please try again.")
-    else:
-        raise ValueError(f"Somehow {thing_to_search} exists but is neither a file nor a directory. Not sure what to do with that.")
-    
-string_to_count = input("Please enter a string to be counted in the target file(s):\n")
+files_to_search, folder_path, string_to_count, case_sensitive = search_helpers.get_search_info()
 
-case_sensitive = input("Do you want the search to be case sensitive? [y]/n\n")
-if case_sensitive.lower() == "n":
-    case_sensitive = False
-else:
-    case_sensitive = True
 
 # perform the search/count
 # save results in a dictionary
