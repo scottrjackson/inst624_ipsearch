@@ -46,4 +46,4 @@ def get_search_info():
 
 ## tests
 # get_search_info() # test with a directory
-get_search_info() # test with a single file
+# get_search_info() # test with a single file
